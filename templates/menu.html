@@ -1,0 +1,6 @@
+<menu class="menu${it.level}">
+${for(it.items)}
+  <li><a href="${it.url}">${it.title}</a>${if(it.submenu)}
+${it.submenu:menu()}${endif}</li>
+${endfor}
+</menu>

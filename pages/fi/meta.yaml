@@ -1,0 +1,9 @@
+title-suffix: Rakastajien kilta
+
+lang: fi
+template: page.html
+strings:
+  copyright-period: 2018–2022
+  last-modified: Viimeksi päivitetty
+  site-author: Rakastajien kilta
+  table-of-contents: Sisällys

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="${lang}" xml:lang="${lang}"${if(dir)} dir="${dir}"${endif}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+${for(author-meta)}
+    <meta name="author" content="${author-meta}" />
+${endfor}
+${if(date-meta)}
+    <meta name="dcterms.date" content="${date-meta}" />
+${endif}
+${if(keywords)}
+    <meta name="keywords" content="${for(keywords)}${keywords}${sep}, ${endfor}" />
+${endif}
+${if(description-meta)}
+    <meta name="description" content="${description-meta}" />
+    <meta property="og:description" content="${description-meta}" />
+${endif}
+
+    <meta property="og:title" content="${if(page-title)}${page-title}${else}${pagetitle}${endif}">
+    <meta property="og:type" content="website" />
+
+<!--
+    <meta property="og:url" content="">
+    <meta property="og:image" content="image.png">
+-->
+
+    <title>${if(title-prefix)}${title-prefix} – ${endif}${if(page-title)}${page-title}${else}${pagetitle}${endif}${if(title-suffix)} – ${title-suffix}${endif}</title>
+${for(css)}
+    <link rel="stylesheet" href="${css}" />
+${endfor}
+  </head>
+
+  <body>
+    <header>
+      <nav class="menu">
+        <a href="${site-root}" class="site-title">${strings.site-author}</a>
+${menu:menu()}
+      </nav>
+    </header>
+
+    <main>
+      <header>
+        <h1 class="title">${title}</h1>
+${if(subtitle)}
+        <p class="subtitle">${subtitle}</p>
+${endif}
+${if(abstract)}
+        <div class="abstract">
+          <div class="abstract-title">${abstract-title}</div>
+${abstract}
+        </div>
+${endif}
+
+${if(toc)}
+        <nav role="doc-toc">
+          <h2>${strings.table-of-contents}</h2>
+${table-of-contents}
+        </nav>
+${endif}
+      </header>
+
+      <section>
+${body}
+      </section>
+    </main>
+
+    <footer>
+      <p class="date">
+        ${strings.last-modified}
+        <time datetime="${date-meta}">${date}</time>
+      </p>
+
+      <p>© ${strings.copyright-period}
+        <address class="author"><a href="${site-root}">${strings.site-author}</a></address>
+      </p>
+    </footer>
+  </body>
+</html>
