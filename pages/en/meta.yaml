@@ -7,3 +7,9 @@ strings:
   last-modified: Last updated
   site-author: Lovers' Guild
   table-of-contents: Contents
+
+  cc:
+    alt: [Creative Commons License -logo]
+    license-pre: Except where otherwise noted, content on this site is licensed under a
+    license-name: Creative Commons Attribution-ShareAlike 4.0 International License
+    license-post: .

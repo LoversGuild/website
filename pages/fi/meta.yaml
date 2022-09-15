@@ -7,3 +7,9 @@ strings:
   last-modified: Viimeksi päivitetty
   site-author: Rakastajien kilta
   table-of-contents: Sisällys
+
+  cc:
+    alt: [Creative Commons -lisenssin logo]
+    license-pre: Tämän sivuston sisältö on lisensoitu
+    license-name: Creative Commons Attribution-ShareAlike 4.0 kansainvälisellä lisenssillä
+    license-post: ", ellei muuta ole mainittu."

@@ -1,6 +1,8 @@
 This repository contains the source for the Lovers' Guild's website.
 
-All contents are licensed under one of the Creative Commons licenses (yet to be decided).
+All contents are licensed under a [Creative Commons Attribution/Share-Alike 4.0 International License][by-sa4].
+
+[by-sa4]: http://creativecommons.org/licenses/by-sa/4.0/
 
 The site will be published at https://rakastajienkilta.fi (Finnish) and https://loversguild.org (English).
 
