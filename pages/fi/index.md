@@ -9,7 +9,7 @@ description: |
 
 Tervetuloa rakastajien killan kotisivuille!
 
-*Rakastajien kilta* on rekisteröimätön yhdistys ja ryhmä aktiiveja, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia sekä tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
+*Rakastajien kilta* on rekisteröitymätön yhdistys ja ryhmä aktiiveja, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia sekä tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
 Tavoitteenamme on tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
 
 Ydintoimintaamme on [Lempeiden orgioiden][orgy] järjestäminen.
@@ -20,4 +20,4 @@ Tarjoamme myös henkilökohtaista konsultaatiota tietoisen seksuaalisen ilmaisun
 
 [orgy]: gentle-orgy/
 
-Näillä sivuilla kerromme seikkaperäisesti toiminnastamme sekä jaamme toiminnassamme käyttämiämme ohjeistuksia, viestintämateriaalia sekä ohjelmistoja.
+Näillä sivuilla kerromme toiminnastamme sekä jaamme toiminnassamme käyttämiämme ohjeistuksia, viestintämateriaalia sekä ohjelmistoja.
