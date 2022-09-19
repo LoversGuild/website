@@ -10,9 +10,11 @@ keywords:
   - seksuaalinen suuntautuminen
   - sukupuolijakauma
   - tilasto
-description: |
+description: &description |
   Lempeitä orgioita on järjestetty vuodesta 2018 lähtien.
   Tänä aikana meille on kerääntynyt runsaasti kokemusta, mutta myös tilastollista tietoa siitä, ketkä orgioihimme osallistuvat.
+
+abstract: *description
 ...
 
 # Lempeiden orgioiden historian lyhyt oppimäärä
