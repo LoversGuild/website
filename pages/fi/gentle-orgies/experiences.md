@@ -1,13 +1,18 @@
 ---
 title: Kokemuksia Lempeistä orgioista
-menu-title: Kokemuksia
+menu-title: Kokemuksia orgioista
 order: 300
 keywords:
   - kokemus
-...
+description: |
+  Lempeät orgiat ovat olleet monelle ikimuistoinen kokemus.
+  Tällä sivulla ääneen pääsevät vieraamme vuosien varrelta.
 
-<lrmpräy orgiat ovat olleet monelle ikimuistoinen kokemus.
-Seuraavat tekstit on kerätty Lempeisiin orgioihin osallistuneilta.
+abstract: |
+  Lempeät orgiat ovat olleet monelle ikimuistoinen kokemus.
+  Tällä sivulla ääneen pääsevät vieraamme vuosien varrelta.
+  Seuraavat tekstit on kerätty Lempeisiin orgioihin osallistuneilta palautteiksi ja julkaistaviksi.
+...
 
 # Minä, 31
 
