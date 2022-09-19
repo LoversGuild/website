@@ -7,7 +7,7 @@ description: |
   Tavoitteenamme on tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
 ...
 
-Tervetuloa rakastajien killan kotisivuille!
+Tervetuloa *Rakastajien killan* kotisivuille!
 
 *Rakastajien kilta* on rekisteröitymätön yhdistys ja ryhmä aktiiveja, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia sekä tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
 Tavoitteenamme on tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
