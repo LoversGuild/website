@@ -2,7 +2,7 @@
 title: Lempeiden orgioiden säännöt
 menu-title: Säännöt
 order: 500
-keywrods:
+keywoods:
   - rajat
   - säännöt
   - vastuu
