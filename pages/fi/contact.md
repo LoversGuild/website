@@ -2,7 +2,7 @@
 title: Yhteystiedot
 menu-title: Ota yhteyttä
 order: 800
-descripton: |
+description: |
     Jos haluat osallistua järjestämiimme tapahtumiin, tahdot mukaan toimintaan, haluat haastatella meitä tai sinulla on mitä tahansa kysyttävää Rakastajien killasta tai sen toiminnasta, ota rohkeasti meihin yhteyttä.
 keywords:
     - media
