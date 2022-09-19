@@ -1,7 +1,7 @@
 ---
 title: Lempeiden orgioiden säännöt
 menu-title: Säännöt
-order: 400
+order: 500
 keywrods:
   - rajat
   - säännöt

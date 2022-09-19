@@ -1,7 +1,7 @@
 ---
 title: Ehkäisy Lempeissä orgioissa
 menu-title: Ehkäisy
-order: 500
+order: 600
 keywords:
   - ehkäisy
   - seksitaudit
