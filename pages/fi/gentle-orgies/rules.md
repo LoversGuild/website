@@ -1,6 +1,7 @@
 ---
 title: Lempeiden orgioiden säännöt
 menu-title: Säännöt
+toc: false
 order: 500
 keywords:
   - rajat
