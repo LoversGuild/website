@@ -9,11 +9,9 @@ description: |
 
 Tervetuloa *Rakastajien killan* kotisivuille!
 
-*Rakastajien kilta* on rekisteröitymätön yhdistys ja ryhmä aktiiveja, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia sekä tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
+*Rakastajien kilta* on rekisteröitymätön yhdistys, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia ja tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
 Tavoitteenamme on tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
-
-Ydintoimintaamme on [Lempeiden orgioiden][orgy] järjestäminen.
-Ne ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.
+Ydintoimintaamme on rakkaudellisten tietoisen seksuaalisen ilmaisun illanviettojen [*Lempeiden orgioiden*][orgy] järjestäminen.
 
 Olemme luoneet Lempeitä orgioita varten runsaasti oheismateriaalia, jota samankaltaisten tapahtumien järjestäjät voivat hyödyntää.
 Tarjoamme myös henkilökohtaista konsultaatiota tietoisen seksuaalisen ilmaisun tapahtumien järjestäjille.
