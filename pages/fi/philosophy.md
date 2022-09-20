@@ -15,6 +15,7 @@ description: |
 ...
 
 Rakastajien kilta on aatteellinen yhdistys, jonka tavoitteena on
+
 - lisäätä ihmisten tietoisuutta oman seksuaalisuutensa valtavasta potentiaalista – niin yksilöiden kuin yhteisöjenkin tasolla,
 - tukea ja rohkaista ihmisiä tutkimaan seksuaalisuuttan ja ilmaisemaan sitä tietoisesti sekä
 - tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
