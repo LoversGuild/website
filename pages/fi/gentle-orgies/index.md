@@ -1,7 +1,7 @@
 ---
 title: Lempeät orgiat
 subtitle: Jaettu ilo on paras ilo!
-order: 100
+order: 200
 description: |
   Lempeät orgiat ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.
   Niissä tarkoituksena on tutkia ja kehittää suhdetta omaan itseen seksuaalisena olentona, sekä nauttia ja iloita seksuaalisuudesta.
