@@ -1,5 +1,5 @@
 ---
-title: Kulttuuri
+title: Lempeyden kulttuuri
 order: 400
 keywords:
   - avoimuus
@@ -20,7 +20,6 @@ keywords:
   - vegaanisuus
   - vanilja
 description: |
-  Illanviettojemme ei ole tarkoitus olla kaikkea kaikille.
   Tällä sivulla pohdimme illanviettojemme suhdetta seksuaalisuuden eri muotoihin ja sen ilmaisemisen alakulttuureihin.
   Kerromme arvoistamme sekä siitä, mitä emme ole.
 
@@ -127,7 +126,7 @@ Tiedostamme nämä BDSM:n vahvuudet, ja joillekin meistä BDSM on harrastus tai 
 Lempeissä orgioissa haluamme tutkia tietoiseen läsnäoloon pääsemistä ilman kipua tai roolileikkejä.
 
 BDSM-leikkeihin kuuluu usein tarkka ja pysyvä leikin sisäisistä säännöistä sopiminen.
-Samalla päätetään, ketä osallistuvat leikkiin.
+Samalla päätetään, ketkä osallistuvat leikkiin.
 Tämä on välttämätöntä turvallisuuden takaamiseksi leikiteltäessä kivulla tai valtadynamiikoilla.
 
 Lempeissä orgioissa haluamme pitää koko ryhmän mahdollisimman yhtenäisenä.
