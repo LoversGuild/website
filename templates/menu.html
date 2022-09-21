@@ -1,6 +1,7 @@
-<menu class="menu${it.level}">
+<div class="menu${it.level}">
+  <menu class="menu${it.level}">
 ${for(it.items)}
-  <li><a href="${it.url}">${it.title}</a>${if(it.submenu)}
-${it.submenu:menu()}${endif}</li>
+    <li${if(it.current)} class="open"${endif}><a href="${it.url}">${it.title}</a></li>
 ${endfor}
-</menu>
+  </menu>
+</div>
