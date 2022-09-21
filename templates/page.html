@@ -26,10 +26,7 @@ ${endif}
 -->
 
     <title>${if(title-prefix)}${title-prefix} – ${endif}${if(page-title)}${page-title}${else}${pagetitle}${endif}${if(title-suffix)} – ${title-suffix}${endif}</title>
-${for(css)}
-    <link rel="stylesheet" href="${css}" />
-${endfor}
-    <link rel="stylesheet" href="/main.css" type="text/css">
+    <link rel="stylesheet" href="${site-root}main.css" type="text/css">
   </head>
 
   <body>
