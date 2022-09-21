@@ -1,0 +1,150 @@
+/*
+Name: Smashing HTML5
+Date: July 2009
+Description: Sample layout for HTML5 and CSS3 goodness.
+Version: 1.0
+Author: Enrique Ramírez
+Autor URI: http://enrique-ramirez.com
+ */
+
+/* Imports */
+@import url("reset.css");
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic);
+/***** Global *****/
+/* Body */
+body {
+  background: #FDF6E3;
+  color: #8A887B;
+  font-size: 16px;
+  font-family: 'Crimson Text', 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-shadow: 0px 0px 1px #BFBFBF;
+
+  display: grid;
+  grid-template:
+    ". header ." min-content
+    ". content ." auto
+    ". footer ." min-content
+    / auto 760px auto
+}
+
+/***** Layout *****/
+/*
+Header
+ *****************/
+body > header {
+  grid-area: header;
+  padding: 2.5em 0 0 0;
+}
+header nav {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+header nav a:link {
+  text-decoration: none;
+}
+header nav a:hover {
+  text-decoration:underline;
+}
+
+/* Banner */
+header nav > a {
+  font-size: 51px;
+  display: block;
+  font-weight: normal;
+  color: #383732;
+}
+header nav > a:link, header nav > a:visited {
+  color: #383732;
+}
+/* Main Nav */
+header nav menu {
+  padding: 0;
+  font-style:italic;
+}
+header nav li {display: inline; margin: 0;}
+header nav menu a:link, header nav menu a:visited {
+  display: inline-block;
+  padding: 5px;
+  text-decoration: none;
+  color: #8A887B;
+}
+
+main {
+  grid-area: content;
+  margin-bottom: 2em;
+  padding: 20px 20px;
+}
+
+footer {
+  grid-area: footer;
+  border-top: 1px dotted #8A887B;
+}
+footer p {
+  text-align: right;
+}
+
+/* Headings */
+h1 {font-size: 2em }
+h2 {font-size: 1.571em}	/* 22px */
+h3 {font-size: 1.429em}	/* 20px */
+h4 {font-size: 1.286em}	/* 18px */
+h5 {font-size: 1.143em}	/* 16px */
+h6 {font-size: 1em}		/* 14px */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Crimson Text', 'Yanone Kaffeesatz', arial, serif;
+  text-shadow:0px 0px 1px #BFBFBF;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 50px;
+  margin-bottom: .8em;
+}
+
+h1 {
+  text-align: center;
+  font-style:italic;
+}
+h1 a:link {
+  text-decoration: none;
+}
+
+hr { border: 1px dotted #8A887B; }
+
+/* Anchors */
+a {outline: 0;}
+a img {border: 0px; text-decoration: none;}
+a:link, a:visited {
+  color: inherit;
+  padding: 0 1px;
+  text-decoration: underline;
+}
+a:hover, a:active {
+  /*background-color: #inherit;*/
+  /*color: #fff;*/
+  text-decoration: underline;
+  /*text-shadow: 1px 1px 1px #333;*/
+}
+
+/* Paragraphs */
+p {margin-bottom: 1.143em;}
+
+strong, b {font-weight: bold;}
+em, i {font-style: italic;}
+
+/* Lists */
+ul {
+  list-style: outside disc;
+  margin: 1em 0 1.5em 1.5em;
+}
+
+ol {
+  list-style: outside decimal;
+  margin: 1em 0 1.5em 1.5em;
+}
+
+dl {margin: 0 0 1.5em 0;}
+dt {font-weight: bold;}
+dd {margin-left: 1.5em;}
