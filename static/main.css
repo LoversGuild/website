@@ -36,36 +36,36 @@ Header
 body > header {
   grid-area: header;
 }
-header nav {
+body > header nav {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-header nav a:link {
+body > header nav a:link {
   text-decoration: none;
 }
-header nav a:hover {
+body > header nav a:hover {
   text-decoration:underline;
 }
 
 /* Banner */
-header nav > a {
+body > header nav > a {
   font-size: 51px;
   display: block;
   font-weight: normal;
   color: #383732;
 }
-header nav > a:link, header nav > a:visited {
+body > header nav > a:link, header nav > a:visited {
   color: #383732;
 }
 /* Main Nav */
-header nav menu {
+body > header nav menu {
   padding: 0;
   font-style:italic;
 }
-header nav li {display: inline; margin: 0;}
-header nav menu a:link, header nav menu a:visited {
+body > header nav li {display: inline; margin: 0;}
+body > header nav menu a:link, header nav menu a:visited {
   display: inline-block;
   padding: 5px;
   text-decoration: none;
