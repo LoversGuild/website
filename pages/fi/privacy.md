@@ -1,6 +1,7 @@
 ---
 title: Tietosuoja
 order: 400
+indexing: false
 abstract: |
   *Rakastajien kilta* pitää henkilörekisteriä [Lempeiden orgioiden][orgy] ja muiden järjestämiensä tietoisen seksuaalisen ilmaisun tapahtumien järjestämiseksi.
   Tällä sivulla kerromme siitä, mitä tietoja tallennamme rekisteriimme, mihin tietoja käytämme, miten niitä käsittelemme ja miten voit olla meihin yhteydessä henkilötietoihisi liittyvissä asioissa.

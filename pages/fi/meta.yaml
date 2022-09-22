@@ -1,4 +1,6 @@
+base-url: https://rakastajienkilta.fi/
 title-suffix: Rakastajien kilta
+indexing: true
 keywords:
   - rakastajien kilta
   - tietoinen seksuaalisuus
@@ -9,10 +11,11 @@ strings:
   copyright-period: 2018–2022
   last-modified: Viimeksi päivitetty
   site-author: Rakastajien kilta
+  site-name: Rakastajien kilta
   table-of-contents: Sisällys
 
   cc:
     alt: [Creative Commons -lisenssin logo]
     license-pre: Tämän sivuston sisältö on lisensoitu
     license-name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 kansainvälisellä lisenssillä
-    license-post: " aina, kun muuta ei ole mainittu."
+    license-post: "\ aina, kun muuta ei ole mainittu."

@@ -1,11 +1,13 @@
+base-url: https://www.loversguild.org/
 title-suffix: Lovers' Guild
-
+indexing: true
 lang: en
 template: page.html
 strings:
   copyright-period: 2018–2022
   last-modified: Last updated
   site-author: Lovers' Guild
+  site-name: Lovers' Guild
   table-of-contents: Contents
 
   cc:

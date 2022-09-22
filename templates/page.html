@@ -17,20 +17,23 @@ ${if(description-meta)}
     <meta property="og:description" content="${description-meta}" />
 ${endif}
 
-    <meta property="og:title" content="${if(page-title)}${page-title}${else}${pagetitle}${endif}">
+    <meta preperty="og:site_name" content="${site-name}" />
+    <meta property="og:title" content="${if(page-title)}${page-title}${else}${pagetitle}${endif}" />
+    <meta property="og:url" content="${base-url}${url}" />
     <meta property="og:type" content="website" />
+    <meta property="og:locale" content="${lang}" />
 
 <!--
-    <meta property="og:url" content="">
-    <meta property="og:image" content="image.png">
+    <meta property="og:image" content="image.png" />
 -->
 
+    <meta name="robots" content="${if(indexing)}noimageindex${else}noindex, nofollow${endif}" />
     <title>${if(title-prefix)}${title-prefix} – ${endif}${if(page-title)}${page-title}${else}${pagetitle}${endif}${if(title-suffix)} – ${title-suffix}${endif}</title>
-    <link rel="stylesheet" href="${site-root}main.css" type="text/css">
+    <link rel="stylesheet" href="${site-root}main.css" type="text/css" />
   </head>
 
   <body>
-    <header>
+    <header data-nosnippet>
       <nav class="menu">
         <a href="${site-root}">Rakastajien kilta</a>
 ${menu:menu()}
@@ -51,7 +54,7 @@ ${abstract}
 ${endif}
 
 ${if(toc)}
-        <nav role="doc-toc">
+        <nav role="doc-toc" data-nosnippet>
           <h2>${strings.table-of-contents}</h2>
 ${table-of-contents}
         </nav>
