@@ -71,6 +71,9 @@ body > header nav menu a:link, header nav menu a:visited {
   text-decoration: none;
   color: #8A887B;
 }
+body > header nav menu li.open > a {
+    font-weight: bold;
+}
 
 main {
   grid-area: content;
