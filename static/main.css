@@ -71,6 +71,9 @@ body > header nav menu a:link, header nav menu a:visited {
   text-decoration: none;
   color: #8A887B;
 }
+body > header nav menu.menu0 a {
+    font-size: 20px;
+}
 body > header nav menu li.open > a {
     font-weight: bold;
 }
