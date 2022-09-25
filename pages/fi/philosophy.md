@@ -14,11 +14,11 @@ description: |
   tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
 ...
 
-Rakastajien kilta on aatteellinen yhdistys, jonka tavoitteet ovat:
+Rakastajien kilta on aatteellinen rekisteröimätön yhdistys, jonka tavoitteet ovat:
 
-- Lisätä ihmisten tietoisuutta oman seksuaalisuutensa valtavasta potentiaalista – niin yksilöiden kuin yhteisöjenkin tasolla.
-- Tukea ja rohkaista ihmisiä tutkimaan seksuaalisuuttan ja ilmaisemaan sitä tietoisesti.
-- Tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
+- lisätä ihmisten tietoisuutta oman seksuaalisuutensa valtavasta voimasta ja potentiaalista – niin yksilöiden kuin yhteisöjenkin tasolla,
+- tukea ja rohkaista ihmisiä tutkimaan seksuaalisuuttan ja ilmaisemaan sitä tietoisesti,
+- tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
 
 Suuri osa ihmisten yhteiskunnista on aiheuttanut valtavaa vahinkoa sekä itselleen kokonaisuutena että jäsenilleen yksilöllisesti tekemällä seksuaalisuudesta tabun ja tukahduttamalla sen ilmaisemista.
 Rakastajien kilta haluaa olla korjaamassa tätä virhettä ja siitä aiheutunutta vahinkoa.
@@ -26,8 +26,8 @@ Rakastajien kilta haluaa olla korjaamassa tätä virhettä ja siitä aiheutunutt
 Tarkoituksensa toteuttamiseksi *Rakastajien kilta*:
 
 - järjestää tietoisen seksuaalisen ilmaisun mahdollistavia tapahtumia
-- tukee vastaavien tapahtumien järjestämistä
-  - julkaisemalla Killan omaa toimintaa varten kehitettyjä ohje- ja viestintämateriaaleja sekä ohjelmistoja,
+- tukee vastaavien tapahtumien järjestämistä:
+  - julkaisemalla yhdistyksen omaa toimintaa varten kehitettyjä ohje- ja viestintämateriaaleja sekä ohjelmistoja,
   - tarjoamalla henkilökohtaista konsultaatiota tapahtumien suunnittelemiseksi ja toteuttamiseksi,
 - järjestää muita tapahtumia ja toteuttaa projekteja, jotka edistävät ihmisten seksuaalisen ilmaisun vapautta,
 - jakaa tietoa tietoisesta seksuaalisuudesta,
@@ -36,11 +36,46 @@ Tarkoituksensa toteuttamiseksi *Rakastajien kilta*:
 Kaikkea toimintaamme määrittelevät seuraavat arvot:
 
 - Rakkaudellisuus
+
+: Haluamme kohdata toiset sydän auki hyväksyen. Jokainen kohtaaminen on merkityksellinen omalla tavallaan. Kukaan ei ole meille väline, vaan itsessään korvaamattoman arvokas olento.
+
 - Konsensuaalisuus
+
+
+: Ihmisten seksuaalisen vuorovaikutuksen tulee aina perustua yhteisymmärrykseen ja yksimielisyyteen. Näin tulisi olla maailmassa aina ja kaikkialla!
+
 - Avoimuus
+
+: Avoimuus tarkoittaa meille avointa itseilmaisua, tabujen kyseenalaistamista, halukkaiden tervetulleeksi toivottamista yhteisöömme, läpinäkyvyyttä toiminnassamme ja päätöksenteossamme sekä tiedon avointa jakamista.
+
 - Rehellisyys
+
+: Teeskentelemätön kommunikaatio johtaa teeskentelemättömiin suhteisiin ihmisten välillä. Omina itseinämme tuleme syvemmin ymmärretyiksi ja rakastetuiksi.
+
 - Rohkeus
+
+: Rohkaisemme ihmisiä kohtaamaan ja hyväksymään itsensä, kasvamaan haluamaansa suuntaan, etsimään ja tutkimaan rajojaan ja ilmaisemaan itseään tietoisesti. Suhde itseen on monille vaikein kaikista suhteista, mutta sen kehittäminen on usein hyvin antoisaa.
+
 - Seksuaalisen itsemääräämisoikeuden tunnustaminen ja kunnioittaminen
+
+: Jokaisella on oikeus oman seksuaalisuutensa ilmaisemiseen tavoilla, jotka eivät vahingoita toisia. Tämä oikeus ei riipu mistään ulkoisesta seikasta, kuten iästä, yhteiskunnallisesta asemasta, kehosta tai terveydestä.
+
+- Turvallisuus
+
+: Turvallisuus syntyy luottamuksesta, avoimesta kommunikaatiosta, vastuun ottamisesta sekä jokaisen yksilöllisten rajojen kunnioittamisesta. Turvallisuus on edellytys avautumiselle ja antautumiselle.
+
 - Henkisyys
-- Päihteettömyys
+
+: Henkisyys ei ole meille uskonnollisuutta, eikä uskonnollista hengellisyyttä. Henkisyys on sen tiedostamista, että kokemuksemme elämästä on laajempi kuin miten luonnontiede sen kykenee selittämään. Rakastelu on meille pyhä kohtaaminen, ja tämä pyhyyden kokemus vahvasti määrittää sitä, millaisen tilan haluamme luoda seksuaalisille kohtaamisille.
+
+- Vastuullisuus
+
+: Seksuaalisuus on hyvin herkästi haavoittuva osa ihmistä. Suuren vapauden mukana tulee myös suuri vastuu. Tämän vastuun haluamme kantaa esimerkiksi luomalla turvallisia tiloja, tarjoamalla tukea ja huolehtimalla jokaisen yksityisyyden toteutumisesta.
+
 - Ekologisuus
+
+: Olemme vastuussa muiden ihmisten lisäksi kaikesta, mitä teemme kotiplaneetallemme. Haluamme toimia mahdollisimman eettisesti sekä ekologisesti kestävällä tavalla.
+
+- Päihteettömyys
+
+: Teeskentelemätön, turvallinen ja avoin seksuaalinen kohtaaminen edellyttävät sitä, ettemme vierain ainein muunna tajuntamme tilaa.
