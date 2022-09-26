@@ -10,7 +10,7 @@
     >
 ${for(pages)}
   <url>
-    <loc>${it.base-url}${it.url}</loc>
+    <loc>${it.absolute-url}</loc>
     <lastmod>${it.date}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
