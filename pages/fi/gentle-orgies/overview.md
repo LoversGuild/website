@@ -4,7 +4,7 @@ order: 100
 description: Lempeät orgiat ovat tila avoimelle seksuaaliselle ilmaisulle ja rakastelulle turvallisessa tilassa yhdessä toisten kanssa.
 abstract: |
   *Lempeät orgiat* ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.
-  Ne tarjoavat mhadollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
+  Ne tarjoavat mahdollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
 ...
 
 # Avoimet sylit, avoimet sydämet
