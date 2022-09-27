@@ -37,7 +37,7 @@ Seksuaalista ilmaisua ja vuorovaikutusta sisältävien tapahtumien järjestämis
 Jokaisen tapahtumiimme osallistuvan on tärkeää lukea osallistujarekisterimme [rekisteriseloste][registry].
 Seloste on yksityiskohtainen, mutta hyvin selkeä.
 
-[registry]: tietosuoja/osallistujarekisteri/
+[registry]: osallistujarekisteri/
 
 # WWW-sivut
 
