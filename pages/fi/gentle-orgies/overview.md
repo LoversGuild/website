@@ -127,5 +127,5 @@ Turvallisen ilmapiirin luomiseksi aloitamme orgiat yhdessä.
 Kotiin jokainen voi lähteä milloin vain haluaa.
 
 Orgioiden säännöistä ja ehkäisykäytännöstä voit lukea [Säännöt][rules] ja [Ehkäisy][protection] -sivuilta.
-[rules]: rules
-[protection]: protection
+[rules]: säännöt
+[protection]: ehkäisy

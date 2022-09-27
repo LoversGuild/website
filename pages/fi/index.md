@@ -17,6 +17,6 @@ Ydintoimintaamme on rakkaudellisten tietoisen seksuaalisen ilmaisun illanviettoj
 Olemme luoneet Lempeitä orgioita varten runsaasti oheismateriaalia, jota samankaltaisten tapahtumien järjestäjät voivat hyödyntää.
 Tarjoamme myös henkilökohtaista konsultaatiota tietoisen seksuaalisen ilmaisun tapahtumien järjestäjille.
 
-[orgy]: gentle-orgy/
+[orgy]: orgiat
 
 Näillä sivuilla kerromme toiminnastamme sekä jaamme toiminnassamme käyttämiämme ohjeistuksia, viestintämateriaalia sekä ohjelmistoja.

@@ -26,7 +26,7 @@ Vastauksemme saattaa kuitenkin toisinaan viipyä joko yhteydenottojen suuren mä
 # Rakastajien killan sähköpostiosoitteet
 
 - Lempeisiin orgioihin osallistuminen (*katso [ohjeet][join] ennen yhteydenottoa*)
-[join]: gentle-orgies/join
+[join]: orgiat/osallistujaksi
 
 : **orgiat (ät) rakastajienkilta (piste) fi**
 
