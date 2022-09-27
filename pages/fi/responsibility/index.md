@@ -1,5 +1,6 @@
 ---
 title: Vastuullisuus
+url: vastuullisuus/
 order: 400
 keywords:
   - vastuullisuus
