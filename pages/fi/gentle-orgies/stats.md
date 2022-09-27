@@ -44,5 +44,5 @@ Naaraista seksuaalisesti kiinnostuneita on 84% osallistujista.
 Vastaavasti uroksista kiinnostuneita on 71%.
 Panseksuaaliksi itsensä ilmoittaa 54% osallistujista.
 
-Rakastajien killan epävirallisen arvion mukaan vähintään 25:llä prosentilla osallistujista on lapsia.
+Rakastajien killan epävirallisen arvion mukaan vähintään 30:llä prosentilla osallistujista on lapsia.
 Tämä arvio on kuitenkin vain suuntaa antava, ja perustuu henkilökohtaisiin havaintoihimme.
