@@ -9,8 +9,8 @@ Autor URI: http://enrique-ramirez.com
 
 /* Imports */
 @import url("reset.css");
-@import url(yanone-kaffeesatz.css);
-@import url(crimsontext-fonts.css);
+@import url(fonts/yanone-kaffeesatz.css);
+@import url(fonts/crimsontext-fonts.css);
 /***** Global *****/
 /* Body */
 body {
