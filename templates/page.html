@@ -17,7 +17,7 @@ ${if(description-meta)}
     <meta property="og:description" content="${description-meta}" />
 ${endif}
 
-    <meta preperty="og:site_name" content="${site-name}" />
+    <meta preperty="og:site_name" content="${strings.site-name}" />
     <meta property="og:title" content="${if(page-title)}${page-title}${else}${pagetitle}${endif}" />
     <meta property="og:url" content="${absolute-url}" />
     <meta property="og:type" content="website" />
@@ -80,8 +80,9 @@ ${body}
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
           <img alt="${strings.cc.alt}" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" />
         </a>
-        <br />${strings.cc.license-pre}
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">${strings.cc.license-name}</a>${strings.cc.license-post}
+        <br />${if(strings.cc.license-pre)}${strings.cc.license-pre}${endif}
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">${strings.cc.license-name}</a>${if(strings.cc.license-post)}
+        ${strings.cc.license-post}${else}.${endif}
       </p>
     </footer>
   </body>
