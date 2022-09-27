@@ -61,7 +61,7 @@ Kaikkea toimintaamme määrittelevät seuraavat arvot:
 : Henkisyys ei ole meille uskonnollisuutta, eikä uskonnollista hengellisyyttä. Tarkoitamme henkisyydellä tietoista läsnäoloa ja halua tarkastella kokemustamme elämästä koko laajuudessaan. Rakastelusta voi tehdä syvästi henkisen ja pyhän kokemuksen. Tämä pyhyyden kokemus vahvasti määrittää sitä, millaisen tilan haluamme luoda seksuaalisille kohtaamisille.
 
 - Vastuullisuus
-: Seksuaalisuus on hyvin herkästi haavoittuva osa ihmistä. Suuren vapauden mukana tulee myös suuri vastuu. Tämän vastuun haluamme kantaa esimerkiksi luomalla turvallisia tiloja, tarjoamalla tukea ja huolehtimalla jokaisen yksityisyyden toteutumisesta.
+: Seksuaalisuus on hyvin herkästi haavoittuva osa ihmistä. Suuren vapauden mukana tulee myös suuri vastuu. Tämän vastuun haluamme kantaa esimerkiksi luomalla turvallisia tiloja, tarjoamalla henkilökohtaista tukea ja huolehtimalla jokaisen yksityisyyden toteutumisesta.
 
 - Ekologisuus
 : Olemme vastuussa muiden ihmisten lisäksi kaikesta, mitä teemme kotiplaneetallemme. Haluamme toimia mahdollisimman eettisesti sekä ekologisesti kestävällä tavalla.
