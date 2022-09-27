@@ -26,18 +26,15 @@ Vastauksemme saattaa kuitenkin toisinaan viipyä joko yhteydenottojen suuren mä
 # Rakastajien killan sähköpostiosoitteet
 
 - Lempeisiin orgioihin osallistuminen (*katso [ohjeet][join] ennen yhteydenottoa*)
-[join]: orgiat/osallistujaksi
-
 : **orgiat (ät) rakastajienkilta (piste) fi**
 
 - Henkilörekisteriasiat, yhteystietojen muutokset, hallinnolliset asiat, yhteistyöprojektit, kehitysehdotukset
-
 : **kilta (ät) rakastajienkilta.fi**
 
 - Haastattelupyynnöt ja muut tiedotusvälineiden yhteydenotot
-
 : **media (ät) rakastajienkilta (piste) fi**
 
 - Yleiset kysymykset, muut asiat
-
 : **info (ät) rakastajienkilta (piste) fi**
+
+[join]: ../orgiat/osallistujaksi/

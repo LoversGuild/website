@@ -31,7 +31,8 @@ Orgioiden järjestämisen tiheys riippuu järjestäjien resursseista, halukkaide
 
 Lähetä meille sähköpostia.
 Osoite löytyy [Yhteydenotto-sivulta][contact].
-[contact]: ../yhteystiedot
+
+[contact]: ../../yhteystiedot/
 
 Kerro viestissä itsestäsi, suhteestasi seksuaalisuuteesi sekä motivaatiostasi osallistumiselle.
 Emme arvostele tai arvota sinua tai kiinnostuksenkohteitasi.
@@ -45,7 +46,8 @@ Päätöstä ei tarvitse tehdä pelkän verkkosivun tai kutsukirjeen perusteella
 
 Nimeäsi tai yhteystietojasi ei jaeta eteenpäin eikä käytetä mihinkään muuhun tarkoitukseen kuin yhteydenpitoon kanssasi.
 Niitä ei myöskään tallenneta [osallistujarekisteriimme][privacy] ilman kirjallista suostumustasi.
-[privacy]: ../vastuullisuus/tietosuoja/osallistujarekisteri/
+
+[privacy]: ../../vastuullisuus/tietosuoja/osallistujarekisteri/
 
 Saamme jonkin verran viestejä tekaistuilta vaikuttavista sähköpostiosoitteista, nimettöminä tai ilmeisen väärillä nimillä.
 Emme halua käyttää rajallista aikaamme näihin viesteihin vastaamiseen.

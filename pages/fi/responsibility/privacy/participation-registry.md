@@ -1,5 +1,5 @@
 ---
-title: Osallistujarekisterin tietosuojaseloste
+title: Osallistujarekisteri
 url: vastuullisuus/tietosuoja/osallistujarekisteri/
 order: 100
 indexing: false
@@ -7,7 +7,7 @@ abstract: |
   *Rakastajien kilta* pitää henkilörekisteriä [Lempeiden orgioiden][orgy] ja muiden järjestämiensä tietoisen seksuaalisen ilmaisun tapahtumien järjestämiseksi.
   Tässä tietosuojaselosteessa kerromme, mitä tietoja tallennamme rekisteriimme, mihin tietoja käytämme, miten niitä käsittelemme ja miten voit olla meihin yhteydessä henkilötietoihisi liittyvissä asioissa.
 
-  [orgy]: ../../orgiat
+  [orgy]: ../../../orgiat/
 ...
 
 # Henkilörekisterin tarkoitus
@@ -22,13 +22,13 @@ Tapahtumarekisterin tietoihin on pääsy yhdistyksen hallituksen jäsenillä, se
 Yhdistyksen hallitus vastaa rekisteriin liittyvästä päätöksenteosta ja rekisterin asianmukaisen käytön valvonnan järjestämisestä.
 Kaikki tietoja käsittelevät henkilöt sitoutuvat ehdottomaan luottamuksellisuuteen.
 
-[guild]: ../../
+[guild]: ../../../
 
 Yhdistyksellämme on tietosuojavastaava.
 Tavoitat yhdistyksen hallituksen ja tietosuojavastaavan sähköpostitse.
 Osoitetiedot löytyvät [Yhteystiedot][contact]-sivulta.
 
-[contact]: ../../yhteystiedot/
+[contact]: ../../../yhteystiedot/
 
 # Suostumuksen antaminen tai peruuttaminen tietojen käsittelyyn
 
