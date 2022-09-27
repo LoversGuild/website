@@ -8,7 +8,7 @@ keywords:
 ...
 
 Seksuaalisuus on monelle hyvin herkkä ja yksityinen aihe.
-Yhteiskunnassamme usein seksuaalisuuteen kohdistuvia rikkomuksia ei oteta vakavasti, vaan loukattua henkilöä usein ohjeistetaan vaikenemaan tapahtumasta.
+Yhteiskunnassamme usein seksuaalisuuteen kohdistuvia rikkomuksia ei oteta vakavasti, vaan loukattua henkilöä usein ohjeistetaan vaikenemaan tapahtuneesta.
 
 Rakastajien killassa haluamme järjestää intiimejä tapahtumia vastuullisesti.
 Suhtaudumme vakavasti turvallisuuteen – sekä yksityisyyteen että jokaisen rajojen kunnioittamiseen.
