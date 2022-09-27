@@ -9,8 +9,8 @@ Autor URI: http://enrique-ramirez.com
 
 /* Imports */
 @import url("reset.css");
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400italic,600,600italic,700,700italic);
+@import url(yanone-kaffeesatz.css);
+@import url(crimsontext-fonts.css);
 /***** Global *****/
 /* Body */
 body {
@@ -62,9 +62,12 @@ body > header nav > a:link, header nav > a:visited {
 /* Main Nav */
 body > header nav menu {
   padding: 0;
-  font-style:italic;
+  font-style: italic;
 }
-body > header nav li {display: inline; margin: 0;}
+body > header nav li {
+  display: inline;
+  margin: 0;
+}
 body > header nav menu a:link, header nav menu a:visited {
   display: inline-block;
   padding: 5px;
@@ -111,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   text-align: center;
-  font-style:italic;
+  font-style: italic;
   margin-top: 0;
 }
 h1 a:link {
@@ -121,8 +124,8 @@ h1 a:link {
 hr { border: 1px dotted #8A887B; }
 
 /* Anchors */
-a {outline: 0;}
-a img {border: 0px; text-decoration: none;}
+a { outline: 0; }
+a img { border: 0px; text-decoration: none; }
 a:link, a:visited {
   color: inherit;
   padding: 0 1px;
@@ -136,10 +139,10 @@ a:hover, a:active {
 }
 
 /* Paragraphs */
-p {margin-bottom: 1.143em;}
+p { margin-bottom: 1.143em; }
 
-strong, b {font-weight: bold;}
-em, i {font-style: italic;}
+strong, b { font-weight: bold; }
+em, i { font-style: italic; }
 
 /* Lists */
 ul {
@@ -152,6 +155,6 @@ ol {
   margin: 1em 0 1.5em 1.5em;
 }
 
-dl {margin: 0 0 1.5em 0;}
-dt {font-weight: bold;}
-dd {margin-left: 1.5em;}
+dl { margin: 0 0 1.5em 0; }
+dt { font-weight: bold; }
+dd { margin-left: 1.5em; }
