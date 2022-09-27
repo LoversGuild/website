@@ -1,6 +1,7 @@
 ---
 title: Lempeät orgiat
 subtitle: Jaettu ilo on paras ilo!
+url: gentle-orgies
 order: 200
 description: |
   Lempeät orgiat ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.

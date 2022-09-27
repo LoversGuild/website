@@ -1,6 +1,7 @@
 ---
 title: Rakastajien kilta
 title-suffix:
+url: ""
 order: 0
 description: |
   *Rakastajien kilta* on yhdistys, joka järjestää ja kehittää tietoisen seksuaalisen ilmaisun tapahtumia sekä tarjoaa asiantuntemustaan vastaavien tapahtumien järjestämisen tueksi.
