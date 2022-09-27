@@ -1,8 +1,9 @@
 ---
 title: Osallistujaksi Lempeisiin orgioihin
 menu-title: Haluan mukaan!
-toc: false
+url: orgiat/osallistujaksi/
 order: 700
+toc: false
 description: |
     Etsimme alati uusia välittäviä, lempeitä, tiedostavia, vastuullisia, luotettavia ja avoimia ihmisiä liittymään halukkaaseen joukkoomme.
 keywords: 

@@ -1,6 +1,7 @@
 ---
 title: Kokemuksia Lempeistä orgioista
 menu-title: Kokemuksia orgioista
+url: orgiat/kokemuksia/
 order: 300
 keywords:
   - kokemus

@@ -1,5 +1,6 @@
 ---
 title: Lempeyden kulttuuri
+url: orgiat/kulttuuri/
 order: 400
 keywords:
   - avoimuus

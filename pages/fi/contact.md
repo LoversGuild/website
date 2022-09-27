@@ -1,6 +1,7 @@
 ---
 title: Yhteystiedot
 menu-title: Ota yhteyttä
+url: yhteystiedot/
 order: 800
 toc: false
 description: |

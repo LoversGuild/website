@@ -1,5 +1,6 @@
 ---
 title: Tietosuoja
+url: tietosuoja/
 order: 400
 indexing: false
 abstract: |

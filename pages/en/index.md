@@ -1,7 +1,7 @@
 ---
 title: Lovers' Guild
 title-suffix:
-url: ""
+url: /
 order: 0
 ...
 

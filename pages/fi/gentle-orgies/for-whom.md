@@ -1,5 +1,6 @@
 ---
 title: Kenelle orgiat sopivat?
+url: orgiat/kenelle/
 order: 200
 keywords:
   - kohderyhmä

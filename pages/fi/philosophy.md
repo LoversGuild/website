@@ -1,5 +1,6 @@
 ---
 title: Tavoitteet ja toiminta
+url: tarkoitus/
 order: 100
 toc: false
 keywords:

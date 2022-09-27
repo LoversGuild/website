@@ -1,6 +1,7 @@
 ---
 title: Lempeiden orgioiden historiaa ja tilastoja
 menu-title: Historiaa ja tilastoja
+url: orgiat/tilastoja/
 order: 800
 keywords:
   - historia

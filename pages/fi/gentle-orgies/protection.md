@@ -1,6 +1,7 @@
 ---
 title: Ehkäisy Lempeissä orgioissa
 menu-title: Ehkäisy
+url: orgiat/ehkäisy/
 order: 600
 keywords:
   - ehkäisy
