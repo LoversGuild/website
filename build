@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -euE -o pipefail
+
+websitedir="$(realpath "$(dirname "$0")")"
+rm -rf "${websitedir}/"{output,shake}
+eval "${websitedir}/run-lovegen" -C "${websitedir}"
