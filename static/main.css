@@ -26,59 +26,59 @@ body {
     ". header ." min-content
     ". content ." auto
     ". footer ." min-content
-    / auto 760px auto
+    / auto min(80%, 760px) auto
 }
 
 /***** Layout *****/
 /*
 Header
  *****************/
-body > header {
+#mainheader {
   grid-area: header;
 }
-body > header nav {
+#mainheader nav {
   margin: 0 auto;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
-body > header nav a:link {
+#mainheader nav a:link {
   text-decoration: none;
 }
-body > header nav a:hover {
+#mainheader nav a:hover {
   text-decoration:underline;
 }
 
 /* Banner */
-body > header nav > a {
+#sitename {
   font-size: 51px;
   display: block;
   font-weight: normal;
   color: #383732;
 }
-body > header nav > a:link, header nav > a:visited {
+#sitename:link, #sitename:visited {
   color: #383732;
 }
 /* Main Nav */
-body > header nav menu {
+#mainheader menu {
   padding: 0;
   font-style: italic;
 }
-body > header nav li {
+#mainheader li {
   display: inline;
   margin: 0;
 }
-body > header nav menu a:link, header nav menu a:visited {
+#mainheader menu a:link, #mainheader menu a:visited {
   display: inline-block;
   padding: 5px;
   text-decoration: none;
   color: #8A887B;
 }
-body > header nav menu.menu0 a {
-    font-size: 20px;
+#mainheader menu.menu0 a {
+  font-size: 20px;
 }
-body > header nav menu li.open > a {
-    font-weight: bold;
+#mainheader menu li.open > a {
+  font-weight: bold;
 }
 
 main {
