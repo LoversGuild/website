@@ -51,10 +51,20 @@ Header
 
 /* Banner */
 #sitename {
-  font-size: 51px;
-  display: block;
+  font-size: 60px;
+  display: flex;
   font-weight: normal;
   color: #383732;
+  width: 100%;
+  justify-content: center;
+  align-items: stretch;
+}
+#sitename:before {
+  display: block;
+  background: url(img/logo_white_small.png) center center / contain no-repeat;
+  aspect-ratio: 96 / 119;
+  content: ' ';
+  margin-right: 10px;
 }
 #sitename:link, #sitename:visited {
   color: #383732;
@@ -63,6 +73,7 @@ Header
 #mainheader menu {
   padding: 0;
   font-style: italic;
+  text-align: center;
 }
 #mainheader li {
   display: inline;
@@ -79,6 +90,9 @@ Header
 }
 #mainheader menu li.open > a {
   font-weight: bold;
+}
+#mainheader div.menu1 {
+  max-width: 80%;
 }
 
 main {
