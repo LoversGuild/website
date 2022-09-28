@@ -67,21 +67,21 @@ ${body}
       </section>
     </main>
 
+
     <footer>
-      <p class="date">
-        ${strings.last-modified}
-        <time datetime="${date-meta}">${date}</time>
-      </p>
-
-      <p>© ${strings.copyright-period}
-        <a href="${site-root}">${strings.site-author}</a>
-      </p>
-
       <p>
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-          <img alt="${strings.cc.alt}" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" />
-        </a>
-        <br />${if(strings.cc.license-pre)}${strings.cc.license-pre}${endif}
+        <span>
+          © ${strings.copyright-period}
+          <a href="${site-root}">${strings.site-author}</a>
+        </span>
+        <span class="date">
+          ${strings.last-modified}
+          <time datetime="${date-meta}">${date}</time>
+        </span>
+      </p>
+      <p class="cc-licence">
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img id="licence-img" alt="${strings.cc.alt}" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+        ${if(strings.cc.license-pre)}${strings.cc.license-pre}${endif}
         <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">${strings.cc.license-name}</a>${if(strings.cc.license-post)}
         ${strings.cc.license-post}${else}.${endif}
       </p>

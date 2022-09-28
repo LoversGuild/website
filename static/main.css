@@ -25,7 +25,7 @@ body {
   grid-template:
     ". header ." min-content
     ". content ." auto
-    ". footer ." min-content
+    "footer footer footer" min-content
     / auto min(80%, 760px) auto
 }
 
@@ -102,11 +102,23 @@ main {
 }
 
 footer {
+  padding: 15px 20px 0 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
   grid-area: footer;
   border-top: 1px dotted #8A887B;
 }
 footer p {
-  text-align: right;
+  flex: 100px 1 auto;
+  margin: 0 0 15px 0;
+}
+footer .cc-licence {
+}
+footer .cc-licence #licence-img {
+  display: inline-block;
+  translate: 0 2px;
+  max-width: fit-content;
 }
 
 /* Headings */
