@@ -25,11 +25,11 @@ Vastauksemme saattaa kuitenkin toisinaan viipyä joko yhteydenottojen suuren mä
 
 # Rakastajien killan sähköpostiosoitteet
 
-- Lempeisiin orgioihin osallistuminen (*katso [ohjeet][join] ennen yhteydenottoa*)
-: **orgiat (ät) rakastajienkilta (piste) fi**
+- Lempeisiin orgioihin ja muihin tapahtumiimme osallistuminen (*katso [ohjeet][join] ennen yhteydenottoa*)
+: **mukaan (ät) rakastajienkilta (piste) fi**
 
 - Henkilörekisteriasiat, yhteystietojen muutokset, hallinnolliset asiat, yhteistyöprojektit, kehitysehdotukset
-: **kilta (ät) rakastajienkilta.fi**
+: **kilta (ät) rakastajienkilta (piste) fi**
 
 - Haastattelupyynnöt ja muut tiedotusvälineiden yhteydenotot
 : **media (ät) rakastajienkilta (piste) fi**
