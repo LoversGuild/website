@@ -47,7 +47,9 @@ ${if(subtitle)}
 ${endif}
 ${if(abstract)}
         <div class="abstract">
+${if(abstract-title)}
           <div class="abstract-title">${abstract-title}</div>
+${endif}
 ${abstract}
         </div>
 ${endif}
