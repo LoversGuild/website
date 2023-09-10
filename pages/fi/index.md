@@ -19,4 +19,6 @@ Tarjoamme myös henkilökohtaista konsultaatiota tietoisen seksuaalisen ilmaisun
 
 [orgy]: orgiat/
 
-Näillä sivuilla kerromme toiminnastamme sekä jaamme toiminnassamme käyttämiämme ohjeistuksia, viestintämateriaalia sekä ohjelmistoja.
+Näillä sivuilla kerromme toiminnastamme sekä jaamme toiminnassamme käyttämiämme ohjeistuksia, viestintämateriaalia sekä [ohjelmistoja][github].
+
+[github]: https://github.com/LoversGuild
