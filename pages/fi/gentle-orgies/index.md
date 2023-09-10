@@ -16,7 +16,7 @@ Orgioissa tutustutaan, leikitään, rakastellaan, syödään, jutellaan ja nukut
 Kaikki osallistuminen on vapaaehtoista ja perustuu yhteisymmärrykseen.
 Orgiat ovat päihteettömiä.
 
-Osallistujia illoissa on 10–15.
+Osallistujia illoissa on yleensä 12–16.
 Tällä hetkellä järjestämme illanviettoja Helsingissä.
 
 Näillä sivuilla kerromme seikkaperäisesti arvoistamme, periaatteistamme, orgioiden käytännönjärjestelyistä, yhteisöstämme sekä siitä, miten pääset mukaan toimintaamme – niin osallistujana kuin järjestäjänäkin.
