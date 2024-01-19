@@ -2,6 +2,8 @@
 
 set -euE -o pipefail
 
-websitedir="$(realpath "$(dirname "$0")")"
-rm -rf "${websitedir}/"{output,shake}
-eval "${websitedir}/run-lovegen" -C "${websitedir}"
+website_dir="$(realpath "$(dirname "$0")")"
+cd "${website_dir}"
+
+rm -rf output
+cabal run generator -- "${website_dir}"

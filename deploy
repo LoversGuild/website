@@ -6,8 +6,7 @@ authority="rakastajienkilta@oiva.sange.fi"
 destdir="./www"
 
 websitedir="$(realpath "$(dirname "$0")")"
-rm -rf "${websitedir}/"{output,shake}
-eval "${websitedir}/run-lovegen" -C "${websitedir}"
+"${websitedir}/build
 
 rsync --verbose --recursive --delete --perms --chmod="ug=rwX,o+rX" --times \
     "${websitedir}"/output/ "${authority}:${destdir}"

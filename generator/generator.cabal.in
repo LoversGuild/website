@@ -1,0 +1,40 @@
+$-- This is a Cabal file template that is used to generate the final cabal file
+$-- for this project using the Precabal tool. Use the `autogen` script from
+$-- the project's root directory to do the generation.
+$--
+$-- This file has the same terms for use and distribution as other files
+$-- in this software. See file LICENSE for details.
+$--
+$-- The following line needs to be the first non-Precabal-style comment line
+$-- in this file due to Cabal restrictions.
+$(include-file cabal/prologue.inc)$
+
+name: generator
+version: 0.1.0.0
+synopsis: Lovers' Guild's website generator
+description:
+homepage: https://github.com/Merivuokko/lilypicker
+license: AGPL-3.0-only
+license-file: LICENSE
+author: The Lovers' Guild
+maintainer: dev@loversguild.org
+copyright: Copyright 2024 The Lovers' Guild
+tested-with: GHC == { 9.8.1 }
+
+source-repository head
+    type: git
+    location: https://github.com/LoversGuild/website
+                      
+$(include-file cabal/common.inc)$
+
+executable generator
+    import: options
+    build-depends:
+        ${base},
+        ${directory},
+        ${filepath},
+        lovegen,
+        ${time},
+
+    hs-source-dirs: .
+    main-is: Main.hs
