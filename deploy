@@ -3,10 +3,10 @@
 set -euE -o pipefail
 
 authority="rakastajienkilta@oiva.sange.fi"
-destdir="./www"
+dest_dir="./www"
 
-websitedir="$(realpath "$(dirname "$0")")"
-"${websitedir}/build
+website_dir="$(realpath "$(dirname "$0")")"
+"${website_dir}/build"
 
 rsync --verbose --recursive --delete --perms --chmod="ug=rwX,o+rX" --times \
-    "${websitedir}"/output/ "${authority}:${destdir}"
+    "${website_dir}"/output/ "${authority}:${dest_dir}"
