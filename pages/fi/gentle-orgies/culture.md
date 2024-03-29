@@ -156,17 +156,7 @@ Lempeisiin orgioihin voi osallistua suhdetilanteesta ja -mallista riippumatta.
 Olemme kuitenkin kriittisiä sekä omistushalua että suhdesopimusten rikkomista kohtaan.
 Jos olet suhteessa, johon liittyy kumppanisi kanssa tehtyjä (tai selkeästi oletettuja) sopimuksia, noudatathan näitä sopimuksia tai keskustelet niiden muuttamisesta.
 
-Olette tervetulleita illanviettoihin parina, kolmikkona, tai minä tahansa konstellaationa.
-Odotamme kuitenkin, että toimitte orgioissa itsenäisinä yksilöinä ettekä yksikkönä.
-Se ei tarkoita, ettette saa leikkiä keskenänne.
-Jos kuitenkin suljette muut kategorisesti leikkienne ulkopuolelle, rikotte ryhmän yhtenäisyyttä.
-Yritykset rajoittaa toisten leikkejä puuttumalla joko kumppanien valitsemiseen tai itseilmaisun vapauteen eivät kuulu Lempeisiin orgioihin.
-Tämä koskee myös keskenään suhteessa olevia.
+Voit osallistua Lempeisiin orgioihin yhdessä kumppanisi tai muun avecin kanssa.
+Katso lisätietoa aveccien kanssa osallistumisesta [täältä][avecit].
 
-Orgioissa mustasukkaisuus omien kumppaneiden leikeistä saattaa yllättää.
-Usein tällaisessa tilanteessa parasta, mitä voit tehdä on meditoida, hengittää ja pyytää tukea muilta osallistujilta ja järjestäjiltä.
-Tukea ei kuitenkaan kannata rynnätä hakemaan omalta kumppanilta kesken hänen leikkinsä, sillä se keskeyttää kumppanisi kohtaamisen ja ennen kaikkea estää sinua itseäsi hyväksymästä tilannetta.
-Tällainen leikkiin puuttuminen voi olla tiedostamaton yritys hallita tai manipuloida kumppania.
-Se voi myös antaa kumppanillesi viestin, ettei hänen toimintansa ole suotavaa.
-
-Suosittelemme, että mikäli osallistut Lempeisiin orgioihin kumppanisi kanssa, keskustelette etukäteen toiveistanne, odotuksistanne ja peloistanne avoimesti ja perinpohjaisesti.
+[avecit]: avecit/
