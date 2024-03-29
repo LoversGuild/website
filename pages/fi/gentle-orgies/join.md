@@ -38,6 +38,16 @@ Kerro viestissä itsestäsi, suhteestasi seksuaalisuuteesi sekä motivaatiostasi
 Emme arvostele tai arvota sinua tai kiinnostuksenkohteitasi.
 Iloitsemme avoimista ja rehellisistä – kirjoittajan itsensä näköisistä – viesteistä.
 
+# Voinko osallistua avecin kanssa?
+
+Voit.
+Avecin ei tarvitse olla seksikumppanisi, vaan voit osallistua myös ystävän kanssa.
+
+Sinä ja aveccisi voitte lähettää meille esittelynne yhdessä tai erikseen.
+Lukekaa kuitenkin ensin lisätietoa [aveccien kanssa osallistumisesta][avecit].
+
+[avecit]: avecit/
+
 # Kuinka voin luottaa teihin?
 
 Avoin yhteydenpito meidän kanssamme on tärkeää myös sinun kannaltasi.
@@ -49,5 +59,11 @@ Niitä ei myöskään tallenneta [osallistujarekisteriimme][privacy] ilman kirja
 
 [privacy]: ../../vastuullisuus/tietosuoja/osallistujarekisteri/
 
-Saamme jonkin verran viestejä tekaistuilta vaikuttavista sähköpostiosoitteista, nimettöminä tai ilmeisen väärillä nimillä.
+# Vastaatteko kaikkiin viesteihin?
+
+Meillä on toisinaan paljon kiireitä, joten varaudu siihen, ettet saa vastausta aivan heti.
+
+Saamme jonkin verran viestejä, jotka ovat asiattomia tai joiden lähettäjä ei selvästi ole tutustunut toimintamme arvoihin ja periaatteisiin tai ei ole ymmärtänyt niitä.
+Osa viesteistä on niin suppeita tai yleisluontoisia, ettemme saa käsitystä siitä, millainen ihminen viestin takana on.
+Saamme myös viestejä tekaistuilta vaikuttavista sähköpostiosoitteista, nimettöminä tai ilmeisen väärillä nimillä.
 Emme halua käyttää rajallista aikaamme näihin viesteihin vastaamiseen.
