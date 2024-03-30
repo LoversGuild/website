@@ -19,7 +19,7 @@ tested-with: GHC == { 9.8.1 }
 source-repository head
     type: git
     location: https://github.com/LoversGuild/website
-                      
+
 flag Werror
     description: Enable -Werror for fixing all warnings
     default: False
