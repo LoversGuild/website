@@ -46,7 +46,7 @@ Avecin ei tarvitse olla seksikumppanisi, vaan voit osallistua myös ystävän ka
 Sinä ja aveccisi voitte lähettää meille esittelynne yhdessä tai erikseen.
 Lukekaa kuitenkin ensin lisätietoa [aveccien kanssa osallistumisesta][avecit].
 
-[avecit]: avecit/
+[avecit]: ../avecit/
 
 # Kuinka voin luottaa teihin?
 

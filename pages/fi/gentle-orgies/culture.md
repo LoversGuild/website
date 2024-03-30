@@ -159,4 +159,4 @@ Jos olet suhteessa, johon liittyy kumppanisi kanssa tehtyjä (tai selkeästi ole
 Voit osallistua Lempeisiin orgioihin yhdessä kumppanisi tai muun avecin kanssa.
 Katso lisätietoa aveccien kanssa osallistumisesta [täältä][avecit].
 
-[avecit]: avecit/
+[avecit]: ../avecit/
