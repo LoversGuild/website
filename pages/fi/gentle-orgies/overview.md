@@ -16,7 +16,7 @@ Meille seksi on rakkauden kehollista ilmaisemista.
 Se on ihmeellinen lahja elämältä meille ihmisille: lumoavan kaunis; joskus pelottavankin voimakas.
 Emme halua hävetä tai kätkeä tuota lahjaa, vaan iloita siitä täydestä sydämestämme.
 
-Lempeissä orgioissa meillä on mahdollisuus läheisyyteen ja rakasteluun jaetussa tilassa yhdessä kaikkien osallistujien kanssa.
+Lempeissä orgioissa meillä on mahdollisuus läheisyyteen ja rakasteluun jaetussa tilassa yhdessä toisten osallistujien kanssa.
 Vapaan leikin ja ohjattujen harjoitusten avulla syvennymme omaan keholliseen ja henkiseen kokemukseemme seksistä.
 Voimme jakaa toistemme kanssa puhtaan viattoman halumme, kauniit alastomat kehomme, kesyttömän leikkisyytemme, iloiset ja kipeät tunteemme sekä omat tapamme rakastella.
 Tervetullutta on kaikki tietoinen ja lempeä seksuaalinen ilmaisu, joka tapahtuu siihen osallistuvien täydellisessä yksimielisyydessä ja yhteisymmärryksessä.
