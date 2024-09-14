@@ -39,5 +39,5 @@ Se voi myös antaa kumppanillesi viestin, ettei hänen toimintansa ole suotavaa.
 
 Suosittelemme, että mikäli osallistut Lempeisiin orgioihin kumppanisi tai kumppaneidesi kanssa, keskustelette etukäteen toiveistanne, odotuksistanne ja peloistanne avoimesti ja perinpohjaisesti.
 Lempeissä orgioissa rakastelu on hyvin intiimiä ja läheistä.
-Saatat hyvinkin nähdä kumppanisi itkemässä liikutuksesta ja ilosta, nauramassa ihastuneena tai nukkumassa onnellisena uuden ihmisen sylissä.
+Saatat hyvinkin nähdä kumppanisi itkemässä liikutuksesta ja ilosta, nauramassa ihastuneena tai nukkumassa onnellisena uuden ihmisen syleilyssä.
 Jos tämän ajatteleminen tuntuu pelottavalta, teidän voi olla hyvä osallistua orgioihin erikseen.
