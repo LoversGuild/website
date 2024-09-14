@@ -135,9 +135,10 @@ Tällaisilla leikeillä on myös taipumus kerätä ympärilleen yleisöä, joka 
 Osa BDSM-leikeistä on luonteeltaan esittäviä ja niihin kuuluu selkeä roolitus.
 Tämä on melko vastakkaista autenttisen itseilmaisun tutkimiselle.
 
-Joissakin seksibileissä on sääntö, jonka mukaan leikkiin liittyminen edellyttää kaikkien leikkiin osallistuvien hyväksynnän.
+Joissakin seksibileissä on sääntö, jonka mukaan leikkivään ryhmään liittyminen edellyttää kaikkien ryhmään kuuluvien hyväksynnän.
 Tällaista sääntöä ei Lempeissä orgioissa ole, vaan konsensuaalisuudesta neuvotellaan aina kahden henkilön välillä.
 Pyrimme siihen, että leikit ovat dynaamisia, ja että ihmiset voivat intuitiivisesti itseään kuunnellen vaihtaa leikistä toiseen.
+Lempeisä orgioissa on usein vaikea sanoa, ketkä leikkijät ovat osa mitäkin ryhmää.
 
 Monille satuttamisen, vallankäytön tai muutoin hurjien leikkien todistaminen ei ole turvallista.
 Joillakin osallistujilla voi olla traumoja, jotka saattavat aktivoitua vaikkapa samassa tilassa tapahtuvasta läimimisestä, kuristamisesta tai alistamisesta.
