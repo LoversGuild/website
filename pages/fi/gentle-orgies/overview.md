@@ -2,7 +2,9 @@
 title: Johdatus Lempeisiin orgioihin
 url: orgiat/johdanto/
 order: 100
-description: Lempeät orgiat ovat tila avoimelle seksuaaliselle ilmaisulle ja rakastelulle turvallisessa tilassa yhdessä toisten kanssa.
+description: |
+  *Lempeät orgiat* ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.
+  Ne tarjoavat mahdollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
 abstract: |
   *Lempeät orgiat* ovat rakkaudellisia tietoisen seksuaalisen ilmaisun illanviettoja.
   Ne tarjoavat mahdollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
