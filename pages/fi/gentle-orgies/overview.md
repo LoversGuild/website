@@ -49,7 +49,7 @@ Toivomme, että jokainen oppii itsestään Lempeissä orgioissa jotakin uutta, m
 
 Pyrimme tekemään illoista hyvin intiimejä.
 Osaltaan intiimiys syntyy pienestä osallistujamäärästä.
-Noin 12:n hengen ryhmässä jokaisen on helppo muistaa toistensa nimet ja rajat, ja jokaiseen on mahdollista luoda henkilökohtainen yhteys.
+Noin 12-16:n hengen ryhmässä jokaisen on helppo muistaa toistensa nimet ja rajat, ja jokaiseen on mahdollista luoda henkilökohtainen yhteys.
 Orgiat pidetään aina järjestäjän omassa kodissa tai mahdollisimman kodinomaisessa ympäristössä.
 
 Rakastellessamme emme keskity itsekkäästi vain omien tarpeidemme tyydyttämiseen, vaan huomioimme kokonaisvaltaisesti jokaisen, jonka kohtaamme.
