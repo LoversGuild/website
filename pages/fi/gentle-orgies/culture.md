@@ -78,8 +78,6 @@ Kielto koskee sekä päihteiden nauttimista että niiden vaikutuksen alaisena ol
 
 Haluamme kohdata toisemme välittömästi itseistämme käsin, eikä keinotekoinen kemiallinen tajunnantilan muuntaminen sovi näihin kohtaamisiin.
 
-Tupakalta haisemiseen voidaan soveltaa samaa ohjetta, joka koskee hajusteita: monet ovat herkkiä hajuille, ja erityisesti tupakan hajusta monet eivät pidä.
-
 # Seksibileet
 
 Tietyssä mielessä Lempeitä orgioita voi pitää seksibileinä.
