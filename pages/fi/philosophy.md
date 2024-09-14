@@ -50,41 +50,41 @@ Kaikkea toimintaamme määrittelevät seuraavat arvot:
 
 - Rehellisyys
 : Teeskentelemätön kommunikaatio johtaa teeskentelemättömiin suhteisiin ihmisten välillä.
-    Omina itseinämme tuleme syvemmin ymmärretyiksi ja rakastetuiksi.
+  Omina itseinämme tuleme syvemmin ymmärretyiksi ja rakastetuiksi.
 
 - Rohkeus
 : Rohkaisemme ihmisiä kohtaamaan ja hyväksymään itsensä, kasvamaan haluamaansa suuntaan, etsimään ja tutkimaan rajojaan ja ilmaisemaan itseään tietoisesti.
-    Suhde itseen on monille vaikein kaikista suhteista, mutta sen kehittäminen on usein hyvin antoisaa.
+  Suhde itseen on monille vaikein kaikista suhteista, mutta sen kehittäminen on usein hyvin antoisaa.
 
 - Seksuaalisen itsemääräämisoikeuden tunnustaminen ja kunnioittaminen
 : Jokaisella on oikeus oman seksuaalisuutensa ilmaisemiseen tavoilla, jotka eivät vahingoita toisia.
-    Tämä oikeus ei riipu mistään ulkoisesta seikasta, kuten iästä, yhteiskunnallisesta asemasta, kehosta tai terveydestä.
+  Tämä oikeus ei riipu mistään ulkoisesta seikasta, kuten iästä, yhteiskunnallisesta asemasta, kehosta tai terveydestä.
 
 - Turvallisuus
 : Turvallisuus syntyy luottamuksesta, avoimesta kommunikaatiosta, vastuun ottamisesta sekä jokaisen yksilöllisten rajojen kunnioittamisesta.
-    Turvallisuus on edellytys avautumiselle ja antautumiselle.
+  Turvallisuus on edellytys avautumiselle ja antautumiselle.
 
 - Henkisyys
 : Henkisyys ei ole meille uskonnollisuutta, eikä uskonnollista hengellisyyttä.
-    Tarkoitamme henkisyydellä tietoista läsnäoloa ja halua tarkastella kokemustamme elämästä koko laajuudessaan.
-    Rakastelusta voi tehdä syvästi henkisen ja pyhän kokemuksen.
-    Pyhä merkitsee meille jotakin, mikä on kunnioitettavaa ja itseisarvoista.
-    Rakastajien killan tapahtumissa haluamme luoda pyhän tilan pyhille kohtaamisille.
+  Tarkoitamme henkisyydellä tietoista läsnäoloa ja halua tarkastella kokemustamme elämästä koko laajuudessaan.
+  Rakastelusta voi tehdä syvästi henkisen ja pyhän kokemuksen.
+  Pyhä merkitsee meille jotakin, mikä on kunnioitettavaa ja itseisarvoista.
+  Rakastajien killan tapahtumissa haluamme luoda pyhän tilan pyhille kohtaamisille.
 
-- Nautinto
+- Nautinnollisuus
 : Nautinto on parantavaa.
-    Nautinto saa meidät avautumaan ja luottamaan toisiimme ja elämään yleensä.
-    Askeesi ei ole ainut tapa, jolla voimme tavoitella henkistä kasvua.
-    Nautinto on olennainen osa elämäniloa ja ravitsevia ihmissuhteita
+  Nautinto saa meidät avautumaan ja luottamaan toisiimme ja elämään yleensä.
+  Askeesi ei ole ainut tapa, jolla voimme tavoitella henkistä kasvua.
+  Nautinto on olennainen osa elämäniloa ja ravitsevia ihmissuhteita
 
 - Vastuullisuus
 : Seksuaalisuus on hyvin herkästi haavoittuva osa ihmistä.
-    Suuren vapauden mukana tulee myös suuri vastuu.
-    Tämän vastuun haluamme kantaa esimerkiksi luomalla turvallisia tiloja, tarjoamalla henkilökohtaista tukea ja huolehtimalla jokaisen yksityisyyden toteutumisesta.
+  Suuren vapauden mukana tulee myös suuri vastuu.
+  Tämän vastuun haluamme kantaa esimerkiksi luomalla turvallisia tiloja, tarjoamalla henkilökohtaista tukea ja huolehtimalla jokaisen yksityisyyden toteutumisesta.
 
 - Ekologisuus
 : Olemme vastuussa muiden ihmisten lisäksi kaikesta, mitä teemme kotiplaneetallemme.
-    Haluamme toimia mahdollisimman eettisesti sekä ekologisesti kestävällä tavalla.
+  Haluamme toimia mahdollisimman eettisesti sekä ekologisesti kestävällä tavalla.
 
 - Päihteettömyys
 : Teeskentelemätön, turvallinen ja avoin seksuaalinen kohtaaminen edellyttävät sitä, ettemme vierain ainein muunna tajuntamme tilaa.
