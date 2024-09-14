@@ -70,7 +70,7 @@ Tällaista ei vielä koskaan ole tapahtunut, ja toivomme, ettei tapahdukaan.
     Orgioiden tapahtumia ei saa tallentaa.
     Kamerat, puhelimet ja kaikenlaiset muut laitteet, jotka voivat tallentaa kuvaa tai ääntä pysyvät naulakkoon jätettävän takin taskussa tai laukussa koko illan ajan.
     Jos puhelinta on tarpeen käyttää, sitä voi mennä käyttämään ulos.
-    Puhelinten käyttäminen voidaan tietyissä tapauksissa sallia erillisessä tilassa, jos tällainen eristetty tila on saatavilla, ja vain jos se sopii kaikille osallistujille.
+    Puhelinten käyttäminen voidaan tietyissä tapauksissa sallia erillisessä tilassa, jos tällainen eristetty tila on saatavilla.
 
 8.  Vastuu tilasta
 
