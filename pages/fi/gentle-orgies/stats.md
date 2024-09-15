@@ -3,6 +3,7 @@ title: Lempeiden orgioiden historiaa ja tilastoja
 menu-title: Historiaa ja tilastoja
 url: orgiat/tilastoja/
 order: 800
+hidden: true
 keywords:
   - historia
   - ikä
@@ -21,12 +22,11 @@ abstract: *description
 # Lempeiden orgioiden historian lyhyt oppimäärä
 
 Lempeitä orgioita on järjestetty vuodesta 2018 lähtien.
-Syyskuuhun 2022 mennessä olemme järjestäneet 16:t orgiat.
+Syyskuuhun 2022 mennessä olemme järjestäneet 24:t orgiat.
 Kaikki illanvietot on pidetty järjestäjien kodeissa Helsingissä.
-Orgioiden järjestäjinä on toiminut yhteensä yhdeksän henkilöä.
+Orgioiden järjestäjinä on toiminut yhteensä kymmenen henkilöä.
 
-Lempeiden orgioiden kysyntä ylitti kaikki odotuksemme, ja orgioita järjestämään perustettiin yhdistys vuonna 2019.
-
+Orgioita järjestämään perustettiin yhdistys vuonna 2019.
 Kuluneina vuosina Lempeät orgiat ovat muuttuneet kokeellisista seksibileistä hyvin ammattitaitoisesti järjestetyiksi seksuaalisuuden tutkimisen ja ilmaisemisen illanvietoiksi.
 Ammattimaistuneesta järjestämisestä huolimatta olemme onnistuneet säilyttämään hyvin orgioiden ilmapiirin välittömänä ja epämuodollisena.
 
