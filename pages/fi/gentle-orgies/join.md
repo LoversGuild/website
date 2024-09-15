@@ -14,7 +14,7 @@ keywords:
 ...
 
 Etsimme alati uusia välittäviä, lempeitä, tiedostavia, vastuullisia, luotettavia ja avoimia ihmisiä liittymään halukkaaseen joukkoomme.
-Jos olet perehtynyt huolellisesti sekä Lempeisiin orgioihin että Rakastajien kiltaan yleensä ja tunnet sydämessäsi kutsun osallistua illanviettoihimme, toivomme, että lähestyt meitä rohkeasti.
+Jos olet perehtynyt huolellisesti sivustoomme – sekä Lempeisiin orgioihin että Rakastajien kiltaan yleensä – ja tunnet sydämessäsi kutsun osallistua illanviettoihimme, toivomme, että lähestyt meitä rohkeasti.
 
 Jos olet epävarma, mutta utelias, voimme vastata kysymyksiisi ja auttaa sinua tekemään valinnan.
 Tavoitteenamme on auttaa ihmisiä tunnistamaan halujaan ja rajojaan, ei koettelemaan niitä uhkarohkeasti.
@@ -57,7 +57,7 @@ Päätöstä ei tarvitse tehdä pelkän verkkosivun tai kutsukirjeen perusteella
 Nimeäsi tai yhteystietojasi ei jaeta eteenpäin eikä käytetä mihinkään muuhun tarkoitukseen kuin yhteydenpitoon kanssasi.
 Niitä ei myöskään tallenneta [osallistujarekisteriimme][privacy] ilman kirjallista suostumustasi.
 
-[privacy]: ../../vastuullisuus/tietosuoja/osallistujarekisteri/
+[privacy]: ../../vastuullisuus/tietosuoja/
 
 # Vastaatteko kaikkiin viesteihin?
 
