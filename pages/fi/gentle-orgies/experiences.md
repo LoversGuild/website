@@ -78,7 +78,7 @@ abstract: |
 
 > Joka kerta, vaikka olen nähnyt orgioita tusinan verran, jännitys saa veren pakenemaan käsistä ja hien valumaan kylminä virtoina kainaloista.
 > Yritän hengittää, ja kylkiä kiristää.
-> Vieraat kasvot ja äänet; kuulumisten vaihtoa ja teetä pöydän ääressä.
+> Vieraat kasvot ja äänet; kuulumisten vaihtoa ja teetä keittiön pöydän ääressä.
 > Tekö kohta riisutte mekkoni?
 > Teihinkö upotan kieleni?
 > Teidän sydämennekö tunnen omaani vasten?
