@@ -33,7 +33,7 @@ Monille on hyvin vapauttavaa saada rakastella sitoumuksitta ja velvoitteitta –
 
 Suurin osa Lempeiden orgioiden osallistujista identifioituu panseksuaaleiksi.
 Se ei tarkoita, etteivät muulla tavoin suuntautuneet olisi tervetulleita orgioihin.
-Panseksuaalien suuri määrä kuitenkin vaikuttaa illanviettojemme luonteeseen.
+Panseksuaalien suuri määrä kuitenkin vaikuttaa orgioidemme luonteeseen.
 Kaikkiruokaisimpien osallistujien on luonnollisesti myös helpoin löytää kiinnostavia rakastelukumppaneita itselleen.
 
 Rohkaisemme ja tuemme kaikkia halujensa ja rajojensa tunnistamisessa ja ilmaisemisessa.
@@ -48,7 +48,7 @@ Tiedostamme oman ainutlaatuisuutemme ja hyväksymme erilaisuuden muissa.
 
 # Keille Lempeät orgiat eivät sovi?
 
-Jos ajatus uusien ihmisten rakastavista ja halukkaista hyväilyistä tuntuu sinusta enemmänkin pelottavalta kuin kiihottavalta tai jos seksi on sinulle enemmän mekaaninen toimitus kuin pyhä kohtaaminen, eivät illanviettomme luultavasti ole sitä, mitä haluat. Kiitos, että tunnistat omat rajasi ja huolehdit niistä.
+Jos ajatus uusien ihmisten rakastavista ja halukkaista hyväilyistä tuntuu sinusta enemmänkin pelottavalta kuin kiihottavalta tai jos seksi on sinulle enemmän mekaaninen toimitus kuin pyhä kohtaaminen, eivät orgiamme luultavasti ole sitä, mitä haluat. Kiitos, että tunnistat omat rajasi ja huolehdit niistä.
 
 Moni fantasioi orgioista, ja jotkut kiinnostus ja uteliaisuus vievät orgioihin asti kokeilemaan.
 On kuitenkin hyvä tutkia omia fantasioitaan ja miettiä, millaiset orgiat parhaiten vastaisivat omiin tarpeisiin.
@@ -69,17 +69,17 @@ Jos toiset kuitenkin kokevat sinut sivulliseksi tarkkailijaksi, voi heille tulla
 
 Me voimme tarjota lempeän oppimisympäristön mitä avoimeen ja tietoiseen seksuaalisuuteen tulee, mutta emme voi opettaa ihmisille sosiaalisia taitoja.
 Toisten kehonkielen lukeminen ja heidän rajojensa seuraaminen ovat asioita, joissa voi aina kehittyä.
-Yksi ilta on kuitenkin liian lyhyt aika opiskelulle, jos nämä taidot eivät ole valmiiksi vahvat.
+Yksi viikonloppu on kuitenkin liian lyhyt aika opiskelulle, jos nämä taidot eivät ole valmiiksi vahvat.
 
 # Onko orgioissa minua haluttavia ihmisiä?
 
 Teemme voitavamme, mutta emme voi taata sitä.
 Herkkyys on voimaa, ja se tekee ihmisistä kuumia.
 Ihmisten mieltymykset seksikumppanien suhteen eivät aina osu yksiin.
-Ilta voi silti olla kaunis ja ikimuistoinen kokemus, jos voit halata ja silitellä heitäkin, joiden kanssa rakasteluhalut eivät kohtaa.
+Orgiat voivat silti olla kaunis ja ikimuistoinen kokemus, jos voit halata ja silitellä heitäkin, joiden kanssa rakasteluhalut eivät kohtaa.
 
 Sukupuoli ei ole meille olennainen ominaisuus ihmisissä.
-Pyrimme kuitenkin tasaamaan eri sukuelimiä kantavien ihmisten määrää illanvietoissamme.
+Pyrimme kuitenkin tasaamaan eri sukuelimiä kantavien ihmisten määrää orgioissamme.
 Kokemuksemme mukaan tämä tasapaino edistää orgioiden rentoutta ja moninaisuutta.
 Se myös lisää joidenkuiden turvallisuudentunnetta.
 

@@ -10,11 +10,10 @@ description: |
   Ehkäisy on tärkeä aihe, joka *Lempeissä orgioissa* aktiivisesti nostetaan esiin.
   Haluamme voida antautua nautinnolle, eikä se käy päinsä, jos emme koe oloamme turvalliseksi.
 ...
-
 Ehkäisy on tärkeä aihe, joka *Lempeissä orgioissa* aktiivisesti nostetaan esiin.
 Haluamme voida antautua nautinnolle, eikä se käy päinsä, jos emme koe oloamme turvalliseksi.
 
-Illanvietoissamme jokainen määrittelee itse omat rajansa, joihin ehkäisyperiaatteet myös kuuluvat.
+Tapahtumissamme jokainen määrittelee itse omat rajansa, joihin ehkäisyperiaatteet myös kuuluvat.
 Koska täysin turvallista seksiä ei ole olemassa, jokaisen on syytä miettiä huolellisesti, mitä riskejä on valmis ottamaan.
 Kun kiimaiset ihmiset lempivät toisiaan isossa kasassa, jokaisen on tärkeää tiedostaa omien valintojensa mahdolliset seuraukset niin itselle kuin myös muille.
 

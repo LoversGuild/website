@@ -21,14 +21,14 @@ keywords:
   - vegaanisuus
   - vanilja
 description: |
-  Tällä sivulla pohdimme illanviettojemme suhdetta seksuaalisuuden eri muotoihin ja sen ilmaisemisen alakulttuureihin.
+  Tällä sivulla pohdimme orgioidemme suhdetta seksuaalisuuden eri muotoihin ja sen ilmaisemisen alakulttuureihin.
   Kerromme arvoistamme sekä siitä, mitä emme ole.
 
 abstract: |
   *Rakastajien killassa* pidämme kaikkea konsensuaalista ja vastuullista seksiä ihmisten välillä erittäin myönteisenä asiana.
   *Lempeissä orgioissa* lähestymme seksiä lempeydestä ja rakkaudellisuudesta käsin.
-  Illanviettojemme ei ole tarkoitus olla kaikkea kaikille.
-  Tällä sivulla pohdimme illanviettojemme suhdetta seksuaalisuuden eri muotoihin ja sen ilmaisemisen alakulttuureihin.
+  Tapahtumiemme ei ole tarkoitus olla kaikkea kaikille.
+  Tällä sivulla pohdimme orgioidemme suhdetta seksuaalisuuden eri muotoihin ja sen ilmaisemisen alakulttuureihin.
   Kerromme arvoistamme sekä siitä, mitä emme ole.
 
 ...
@@ -89,7 +89,7 @@ Se, etteivät Lempeät orgiat ole disko, klubi-ilta, performanssi tai pelkästä
 # Vegaanisuus ja ekologisuus
 
 Rakkaus on paitsi nautinto myös maailmanparannusta.
-Illanviettojemme ruokatarjoilu on eettisistä ja ekologisista syistä kokonaan vegaanista, ja pääosin luomutuotettua.
+Tapahtumiemme ruokatarjoilu on eettisistä ja ekologisista syistä kokonaan vegaanista, ja pääosin luomutuotettua.
 Tämä sopii hyvin yhteen sen sääntömme kanssa, joka kieltää toisten vahingoittamisen.
 
 # Vanilja

@@ -14,7 +14,7 @@ keywords:
 ...
 
 Etsimme alati uusia välittäviä, lempeitä, tiedostavia, vastuullisia, luotettavia ja avoimia ihmisiä liittymään halukkaaseen joukkoomme.
-Jos olet perehtynyt huolellisesti sivustoomme – sekä Lempeisiin orgioihin että Rakastajien kiltaan yleensä – ja tunnet sydämessäsi kutsun osallistua illanviettoihimme, toivomme, että lähestyt meitä rohkeasti.
+Jos olet perehtynyt huolellisesti sivustoomme – sekä Lempeisiin orgioihin että Rakastajien kiltaan yleensä – ja tunnet sydämessäsi kutsun osallistua orgioihimme, toivomme, että lähestyt meitä rohkeasti.
 
 Jos olet epävarma, mutta utelias, voimme vastata kysymyksiisi ja auttaa sinua tekemään valinnan.
 Tavoitteenamme on auttaa ihmisiä tunnistamaan halujaan ja rajojaan, ei koettelemaan niitä uhkarohkeasti.

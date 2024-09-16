@@ -9,10 +9,10 @@ keywords:
   - säännöt
   - vastuu
 description: |
-  Jotta rakkaudellisissa illanvietoissamme kaikilla olisi hyvä ja turvallinen olo, tarvitsemme muutamia yhteisiä sääntöjä.
+  Jotta rakkaudellisissa orgioissamme kaikilla olisi hyvä ja turvallinen olo, tarvitsemme muutamia yhteisiä sääntöjä.
 ...
 
-Jotta rakkaudellisissa illanvietoissamme kaikilla olisi hyvä ja turvallinen olo, tarvitsemme muutamia yhteisiä sääntöjä.
+Jotta rakkaudellisissa orgioissamme kaikilla olisi hyvä ja turvallinen olo, tarvitsemme muutamia yhteisiä sääntöjä.
 Jokaisen Lempeisiin orgioihin osallistuvan on ymmärrettävä ja hyväksyttävä nämä säännöt sekä sitouduttava noudattamaan niitä.
 Sääntöjen noudattamatta jättäminen johtaa orgioista ulos heittämiseen sekä porttikiellon saamiseen tuleviin tapahtumiimme.
 Tällaista ei vielä koskaan ole tapahtunut, ja toivomme, ettei tapahdukaan.
@@ -68,7 +68,7 @@ Tällaista ei vielä koskaan ole tapahtunut, ja toivomme, ettei tapahdukaan.
 7.  Tallentaminen
 
     Orgioiden tapahtumia ei saa tallentaa.
-    Kamerat, puhelimet ja kaikenlaiset muut laitteet, jotka voivat tallentaa kuvaa tai ääntä pysyvät naulakkoon jätettävän takin taskussa tai laukussa koko illan ajan.
+    Kamerat, puhelimet ja kaikenlaiset muut laitteet, jotka voivat tallentaa kuvaa tai ääntä pysyvät eristyksissä koko tapahtuman ajan.
     Jos puhelinta on tarpeen käyttää, sitä voi mennä käyttämään ulos.
     Puhelinten käyttäminen voidaan tietyissä tapauksissa sallia erillisessä tilassa, jos tällainen eristetty tila on saatavilla.
 
