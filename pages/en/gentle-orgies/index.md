@@ -17,7 +17,7 @@ All participation is voluntary and based on consent.
 Our orgies are sober.
 
 Our gatherings usually have 12 to 16 participants.
-Orgies start generally on a Saturday afternoon and continue until early afternoon on Sunday.
+Orgies generally start on a Saturday afternoon and continue until early afternoon on Sunday.
 At this moment our gatherings are held in Helsinki.
 
 On these pages we tell you in detail about our values, principles, the practical arrangements of our orgies, our community and about how you can join our activities – both as a participant and as an organizer.
