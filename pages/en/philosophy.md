@@ -1,5 +1,5 @@
 ---
-title: Philosophy and activities
+title: Activities and philosophy
 url: philosophy/
 order: 100
 toc: false
