@@ -8,9 +8,11 @@ The site will be published at https://rakastajienkilta.fi (Finnish) and https://
 
 # Building
 
-This site is built using a custom static site generator [LoveGen][lovegen-repo].
-You need to build LoveGen in order to generate a modified copy of this site.
-See instructions in [LoveGen's repository][lovegen-repo].
+This site is built using a custom static site generator.
+It is based on a library called [LoveGen][lovegen-repo].
+To build the generator, run `cabal build generator` in the root directory of this repository.
+To rebuild the website contents, run the script called `build` in the root of this repository.
+The later command will also build the generator as needed.
 
 [lovegen-repo]: https://github.com/LoversGuild/lovegen
 
