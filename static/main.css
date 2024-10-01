@@ -61,6 +61,7 @@ Header
 /* Banner */
 #sitename {
   font-size: 60px;
+  font-size: clamp(35px, 10dvw, 60px);
   display: flex;
   font-weight: normal;
   width: 100%;
