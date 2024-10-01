@@ -21,7 +21,6 @@ body {
   font-family: 'Crimson Text', 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-shadow: 0px 0px 1px #BFBFBF;
 
-  padding-top: 120px;
   display: grid;
   grid-template:
     ". header ." min-content
@@ -35,8 +34,10 @@ body {
 Header
  *****************/
 #mainheader {
+  padding-top: clamp(30px, 5dvh, 65px);
   color: #383732;
   grid-area: header;
+  position: relative;
 }
 #mainheader nav {
   margin: 0 auto;
@@ -51,9 +52,16 @@ Header
   text-decoration:underline;
 }
 
+#mainheader #languages {
+  position: absolute;
+  top: 20px;
+  right: 0px;
+}
+
 /* Banner */
 #sitename {
   font-size: 60px;
+  font-size: clamp(35px, 10dvw, 60px);
   display: flex;
   font-weight: normal;
   width: 100%;

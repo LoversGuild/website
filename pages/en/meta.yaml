@@ -5,6 +5,9 @@ keywords:
   - conscious sexuality
   - Lovers' Guild
 lang: en
+other-languages:
+  - name: Suomeksi
+    url: https://rakastajienkilta.fi/
 template: page.html
 strings:
   copyright-period: 2018–2024
