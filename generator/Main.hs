@@ -10,8 +10,9 @@
 -- Portability : GHC
 module Main (main) where
 
-import Data.HashSet qualified as HS
 import Control.Monad (ap)
+import Data.HashSet qualified as HS
+import Data.Text qualified as T
 import Data.Time
 import System.Directory.OsPath
 import System.OsPath
@@ -22,14 +23,19 @@ import LoveGen
 -- Configuration --
 -------------------
 
+optionalMetadata :: HS.HashSet T.Text
+optionalMetadata =
+    HS.union
+        defaultSiteConfig.optionalMetadata
+        $ HS.fromList ["other-languages"]
+
 finnishSite :: SiteConfig
 finnishSite =
     defaultSiteConfig
         { siteUrl = "https://rakastajienkilta.fi/",
           pagesDir = [osp|pages/fi|],
           outputDir = [osp|output/fi|],
-          optionalMetadata = HS.union
-                defaultSiteConfig.optionalMetadata $ HS.fromList [ "other-languages" ],
+          optionalMetadata = optionalMetadata,
           locales =
             [   ( "fi",
                   LocaleConfig
@@ -83,8 +89,7 @@ englishSite =
         { siteUrl = "https://loversguild.org/",
           pagesDir = [osp|pages/en|],
           outputDir = [osp|output/en|],
-          optionalMetadata = HS.union
-                defaultSiteConfig.optionalMetadata $ HS.fromList [ "other-languages" ],
+          optionalMetadata = optionalMetadata,
           locales =
             [   ( "en",
                   LocaleConfig
