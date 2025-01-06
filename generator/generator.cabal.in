@@ -34,7 +34,9 @@ executable generator
         ${directory},
         ${filepath},
         lovegen,
+        ${text},
         ${time},
+        ${unordered-containers},
 
     hs-source-dirs: .
     main-is: Main.hs

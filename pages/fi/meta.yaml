@@ -5,6 +5,9 @@ keywords:
   - rakastajien kilta
   - tietoinen seksuaalisuus
 lang: fi
+other-languages:
+  - name: In English
+    url: https://loversguild.org/
 template: page.html
 strings:
   copyright-period: 2018–2024
