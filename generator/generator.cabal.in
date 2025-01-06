@@ -34,6 +34,7 @@ executable generator
         ${directory},
         ${filepath},
         lovegen,
+        ${text},
         ${time},
         ${unordered-containers},
 
