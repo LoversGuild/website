@@ -3,3 +3,4 @@ packages: generator
 source-repository-package
     type: git
     location: https://github.com/LoversGuild/lovegen
+    tag: v0.1.0.1
