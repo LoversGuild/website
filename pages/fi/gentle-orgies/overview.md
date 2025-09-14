@@ -78,7 +78,7 @@ Lempeissä orgioissa jokainen voi luottaa siihen, että kaikki itsessä ja muiss
 Maailmassa, jossa elämme, on harvoin tilaisuuksia tulla yhtä syvästi nähdyksi, hyväksytyksi ja rakastetuksi.
 Tuo kokemus voi olla hyvin parantava.
 
-Suurin osa meistä on lapsesta saakka ehdollistettu häpeämään seksuaalisuuttamme, kehoamme tai molempia.
+Suurin osa meistä on lapsesta saakka ehdollistettu häpeämään omaa seksuaalisuuttaan, kehoaan tai molempia.
 Tästä häpeästä vapautuminen on hyvin antoisaa, mutta se ei useimmille ole helppoa.
 
 Orgioissa kenelläkään ei ole vääränlaista vartaloa eikä vääränlaista tapaa äännellä mielihyvästä.
@@ -105,7 +105,7 @@ Siksi nämä taidot on opeteltava – usein vasta aikuisina.
 
 Meille sanallisen ja kehollisen viestinnän huomioiminen on kaiken konsensuaalisuuden ja sitä kautta seksuaalisen vuorovaikutuksen lähtökohta.
 “Ei” tarkoittaa aina ehdottomasti ja välittömästi ei!
-Toisten rajoja ei venyttetä, eikä ketään suostutella joustamaan rajoistaan.
+Toisten rajoja ei venytetä, eikä ketään suostutella joustamaan rajoistaan.
 Rajojen ilmaisua ja tunnistamista myös harjoitellaan jokaisissa orgioissa.
 
 # Yksityisyys

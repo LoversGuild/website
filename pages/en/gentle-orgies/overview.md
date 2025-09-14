@@ -77,7 +77,7 @@ In Gentle orgies, everyone can rest assured that all feelings in themselves and 
 In the world that we live in, there are very few situations where we can feel ourselves seen, accepted and loved this deeply.
 Such experiences can be very healing.
 
-Most of us have been conditioned since childhood to be ashamed of our sexuality, body or both.
+Most of us have been conditioned since childhood to be ashamed of once sexuality, body or both.
 To let go of this shame is very rewarding, yet it is not an easy task for most.
 
 In our orgies, no one has a wrong body type or a wrong way to express their pleasure with their voice.
