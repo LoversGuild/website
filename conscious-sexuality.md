@@ -28,7 +28,7 @@ Olemme oppineet piilottamaan halumme ja eristämään seksuaalisen kanssakäymis
 
 Ja niinhän me usein häpeämmekin:
 Häpeämme ehkä vartaloamme, tapaamme äännellä mielihyvästä, omia tai kumppanimme eritteitä tai niiden tuoksua, rajojen asettamista tai omia mieltymyksiämme.
-Suurelle osalle yhteiskunnassamme kasvaneista ihmisistä seksi on miinakenttä, jolla on liikuttava varovaisesti tuttuja reittejä pitkin, jotta voisi välttää pelottavat ja nolot tilanteet.
+Pahimmassa tapauksessa seksistä on tullut miinakenttä, jolla on liikuttava varovaisesti tuttuja reittejä pitkin, jotta voisi välttää pelottavat ja nolot tilanteet.
 Tämä tekee seksistä kommunikoinnin vaivalloiseksi ja vähentää seksin nautinnollisuutta.
 
 # Tietoisuus
