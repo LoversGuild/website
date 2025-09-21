@@ -25,10 +25,22 @@ We do not desire sex with others purely for the sake of physical pleasure, but a
 We want to learn to be ourselves in front of others even when it feels hard.
 We want to show our bodies, our feelings, our vulnerability and insecurities, and we want to be seen, accepted and loved.
 
+Gentle Orgies are an endless source of bliss for those who long to make love all day and night—for those who constantly hear the call of love in their bodies, even if it’s just a quiet whisper in the background.
+
+Equally, Gentle Orgies fit just as well for those who may only awaken to their sexuality once a month and desire someone close to them in those moments.
+For many, it’s profoundly liberating to embrace love making without commitments or obligations—to hold a beloved for a moment, then spread their wings and soar on their own.
+
+Gentle Orgies, however, provide an excellent setting to get to know new people.
+While making love, we forget our social roles, and once freed from them, we get to know our partners naturally and deeply.
+
 Gentle orgies are an inexhaustible source of bliss for those of us who want to make love every day and night of their lives—for those who always feel the call of love in their body, even if only quietly in the background.
 
 But Gentle orgies fit just as well for those who remember their sexuality only once a month and want someone close to them at those moments.
 Being able to make love without commitments and duties is also freeing for many; to be able to press your lovers against your chest for a moment, then spread your wings and fly your own way. 
+
+Lempeät orgiat ovat tarjoavat kuitenkin myös erinomaisen ympäristön uusiin ihmisiin tutustumiselle.
+Rakastellessa vapaudumme luonnostamme sosiaalisista rooleistamme.
+Tultuamme nähdyksi ja hyväksytyksi syvemmin omana itsenämme muuttuu tutustuminen helpommaksi.
 
 Most participants of Gentle orgies identify as pansexuals.
 This does not mean that people of other orientations aren't welcome in the orgies.

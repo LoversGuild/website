@@ -26,10 +26,13 @@ Emme halua seksiä toisten kanssa vain saadaksemme fyysistä nautintoa, vaan my�
 Haluamme oppia olemaan omia itsejämme toistemme edessä silloinkin, kun se tuntuu vaikealta.
 Haluamme näyttää kehomme, tunteemme, haavoittuvuutemme ja epävarmuutemme; ja haluamme tulla nähdyiksi, hyväksytyiksi ja rakastetuiksi.
 
-Lempeät orgiat ovat ehtymätön autuuden lähde niille, jotka haluaisivat rakastella kaikki elämänsä yöt ja päivät – niille, jotka kaiken aikaa kuulevat rakkauden kutsun kehossaan, vaikka vain hiljaisena jossakin taustalla.
+Lempeät orgiat ovat ehtymätön autuuden lähde niille, jotka haluaisivat rakastella kaiken päivää ja yötä – niille, jotka kaiken aikaa kuulevat rakkauden kutsun kehossaan, vaikka vain hiljaisena kuiskauksena jossakin taustalla.
 
-Mutta yhtä lailla Lempeät orgiat sopivat hyvin myös heille, jotka muistavat seksuaalisuutensa vain kerran kuussa ja tahtoisivat niinä hetkinä jonkun lähelleen.
+Mutta yhtä lailla Lempeät orgiat sopivat hyvin myös heille, jotka muistavat seksuaalisuutensa kerran kuussa ja tahtovat niinä hetkinä jonkun lähelleen.
 Monille on hyvin vapauttavaa saada rakastella sitoumuksitta ja velvoitteitta – saada painaa rakastetut hetkeksi rintaansa vasten, levittää sitten siipensä ja lentää omille teilleen.
+
+Lempeät orgiat ova kuitenkin myös erinomainen ympäristö uusiin ihmisiin tutustumiselle.
+Rakastellessa unohdamme sosiaaliset roolimme ja niistä vapauduttuamme tutustumme kumppaneihimme luontevasti ja syvästi.
 
 Suurin osa Lempeiden orgioiden osallistujista identifioituu panseksuaaleiksi.
 Se ei tarkoita, etteivät muulla tavoin suuntautuneet olisi tervetulleita orgioihin.
