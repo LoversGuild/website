@@ -18,7 +18,7 @@ Kaikki halukkaat osallistujat haastatellaan ennen kuin heidät kutsutaan mukaan.
 Orgiat ovat päihteettömiä.
 
 Osallistujia illoissa on yleensä 12–17.
-Orgiat alkavat yleensä lauantaina iltapäivällä ja jatkuvat sunnuntan alkuiltapäivään.
+Orgiat alkavat yleensä lauantaina iltapäivällä ja jatkuvat sunnuntain alkuiltapäivään.
 Tällä hetkellä järjestämme orgioita Helsingissä.
 
 Näillä sivuilla kerromme seikkaperäisesti arvoistamme, periaatteistamme, orgioiden käytännönjärjestelyistä, yhteisöstämme sekä siitä, miten pääset mukaan toimintaamme – niin osallistujana kuin järjestäjänäkin.
