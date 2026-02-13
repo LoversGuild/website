@@ -15,8 +15,8 @@ Järjestämme tapahtumia, joissa seksuaalisuus, tietoinen läsnäolo, tunneyhtey
 Joissakin tapahtumissamme rakastellaan yhdessä, joissakin seksuaalisuutta tutkitaan muin tavoin.
 Kaikki seksuaalinen vuorovaikutus tapahtumissamme perustuu aina konsensuaalisuuteen ja jokaisen rajojen kunnioittamiseen.
 
-Ydintoimintaamme on järjestää tietoisen seksuaalisuuden pienoisretriittejä – [Lempeitä orgioita][orgy], jotka ovat viikonloppun mittaisia, huolella ohjattuja ja päiihteettömiä.
-Ne on tarkoitettu heille, jotka haluvat tutkia seksuaalisuutta polkuna itsetuntemukseen, intiimiin yhteyteen, syvään nautintoon ja henkiseen kasvuun turvallisessa tilassa.
+Ydintoimintaamme on järjestää tietoisen seksuaalisuuden retriittejä – [Lempeitä orgioita][orgy], jotka ovat viikonlopun mittaisia, huolella ohjattuja ja päiihteettömiä.
+Niissä seksuaalisuutta tutkitaan polkuna itsetuntemukseen, intiimiin yhteyteen, syvään nautintoon ja henkiseen kasvuun.
 
 Yhteisömme kutsuu mukaan kaikkia sukupuolia olevia ihmisiä,
 
@@ -29,7 +29,7 @@ Emme myöskään ole kultti emmekä kumarra guruja: henkisyys ei merkitse meille
 
 Rakastajien killassa
 
-- järjestämme **Lempeitä orgioita** – pienoisretriittejä tietoisen seksuaalisuuden tutkimiseen rakkaudellisessa, turvallisessa ja päihteettömässä ympäristössä,
+- järjestämme [**Lempeitä orgioita**][orgy] – rakkaudellisia tietoisen seksuaalisuuden retriittejä,
 - järjestämme työpajoja vaihtuvilla teemoilla,
 - kehitämme **ohjeita, harjoituksia ja viestintämateriaaleja** tietoisen seksuaalisuuden tapahtumia varten,
 - tarjoamme **tukea ja konsultaatiota** heille, jotka haluavat järjestää vastaavanlaisia tapahtumia omissa yhteisöissään,

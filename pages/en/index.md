@@ -15,7 +15,7 @@ We organise events where sexuality, mindful presence, emotional connection and a
 In some of our events, participants make love together, while in others sexuality is explored differently.
 All sexual interaction in our events is always based on consent and on respecting everyone’s boundaries.
 
-Our core activity is hosting mini-retreats of conscious sexual exploration called [**Gentle Orgies**][orgy]—weekend‑long, sober and carefully held.
+Our core activity is hosting retreats of conscious sexual exploration called [**Gentle Orgies**][orgy]—weekend‑long, sober and carefully held.
 They are for people who want to explore sexuality as a path of self‑knowledge, intimate connection, deep pleasure and spiritual growth in a safe space.
 
 Our community attracts people of all genders:
@@ -29,7 +29,7 @@ We are not a cult, nor do we bow to gurus: for us, spirituality doesn’t mean r
 
 At the Lovers’ Guild we:
 
-- organise **Gentle Orgies**—mini-retreats for conscious sexual exploration in a loving, safe, sober space,
+- organise **Gentle Orgies**—retreats for loving conscious sexuality,
 - organise workshops with varying themes,
 - develop **guides, exercises and communication materials** for conscious sexuality events,
 - offer **support and consultation** to people who want to organise similar spaces in their own communities, and
