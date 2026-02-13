@@ -64,11 +64,10 @@ Safety
   Safety is a prerequisite of opening up and letting go.
 
 Spirituality
-: To us, spirituality is not related to religion.
-  Spirituality is the state of being present consciously and the desire to witness our life experience as a whole.
-  Making love can be turned into a deeply spiritual and sacred experience.
-  Sacred, to us, means something that has intrinsic value and is to be respected.
-  At Lovers' Guild's events we aim to create a sacred space for sacred meetings.
+: For us, spirituality is not about religion or belief systems.  
+  Spirituality is the state of being **consciously present** and the wish to witness our life experience as a whole.  
+  Lovemaking can become a deeply spiritual and sacred experience – “sacred” meaning simply *deeply valuable and to be treated with respect*.  
+  At Lovers’ Guild events we aim to create a sacred space for sacred meetings.
 
 Pleasure and sensuality
 : Pleasure is healing.

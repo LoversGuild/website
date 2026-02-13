@@ -67,8 +67,8 @@ Turvallisuus
 Henkisyys
 : Henkisyys ei ole meille uskonnollisuutta, eikä uskonnollista hengellisyyttä.
   Tarkoitamme henkisyydellä tietoista läsnäoloa ja halua tarkastella kokemustamme elämästä koko laajuudessaan.
-  Rakastelusta voi tehdä syvästi henkisen ja pyhän kokemuksen.
-  Pyhä merkitsee meille jotakin, mikä on kunnioitettavaa ja itseisarvoista.
+  Rakastelu voi olla syvästi henkinen ja pyhä kokemus.
+  Pyhä merkitsee meille jotakin, mikä on itsessään syvästi arvokasta ja kunnioitettavaa.
   Rakastajien killan tapahtumissa haluamme luoda pyhän tilan pyhille kohtaamisille.
 
 Nautinnollisuus
