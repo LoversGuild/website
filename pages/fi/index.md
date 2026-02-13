@@ -9,24 +9,27 @@ description: |
 ...
 
 **Rakastajien kilta** on tietoisen ja rakkaudellisen seksuaalisuuden yhteisö.
-Järjestämme pienikokoisia tapahtumia, joissa seksuaalisuus, henkisyys ja tietoinen läsnäolo kohtaavat ja joissa jokaista kunnioitetaan omine rajoineen.
-Kaikissa tapahtumissamme ei ole seksiä.
-
 Tavoitteenamme on tehdä maailmasta rakkaudellisempi paikka, jossa seksuaalisuutta arvostetaan ja siitä iloitaan tiedostaen, vapaasti ja avoimesti ilman häpeää tai pelkoa.
-Ydintoimintaamme on viikonloppun mittaisten, huolella ohjattujen ja päiihteettömien pienoisretriittien – [Lempeiden orgioiden][orgy] – järjestäminen.
+
+Järjestämme tapahtumia, joissa seksuaalisuus, tietoinen läsnäolo, tunneyhteys ja aito vuorovaikutus kohtaavat.
+Joissakin tapahtumissamme rakastellaan yhdessä, joissakin seksuaalisuutta tutkitaan muin tavoin.
+Kaikki seksuaalinen vuorovaikutus tapahtumissamme perustuu aina konsensuaalisuuteen ja jokaisen rajojen kunnioittamiseen.
+
+Ydintoimintaamme on järjestää tietoisen seksuaalisuuden pienoisretriittejä – [Lempeitä orgioita][orgy], jotka ovat viikonloppun mittaisia, huolella ohjattuja ja päiihteettömiä.
 Ne on tarkoitettu heille, jotka haluvat tutkia seksuaalisuutta polkuna itsetuntemukseen, intiimiin yhteyteen, syvään nautintoon ja henkiseen kasvuun turvallisessa tilassa.
 
 Yhteisömme kutsuu mukaan kaikkia sukupuolia olevia ihmisiä,
 
-- jotka ovat kiinnostuneita tietoisesta läsnäolosta, neotantrasta, joogasta, meditaatiosta, kehotyöskentelystä tai muusta henkisestä harjoituksesta ja
-- joille seksi on emotionaalisesti merkityksellistä yhteyden muodostamista – ei vain fyysistä purkautumista.
+- jotka ovat kiinnostuneita tietoisesta läsnäolosta, neotantrasta, joogasta, meditaatiosta, kehoterapiasta tai muusta henkisestä harjoituksesta,
+- joille seksi on emotionaalisesti merkityksellistä yhteyden muodostamista – ei vain fyysistä purkautumista,
+- joilla on hyvät tunne- ja vuorovaikutustaidot sekä kyky kuunnella ja kunnioittaa sekä omia että toisten rajoja.
 
 Emme ole seksiklubi tai vain tilaisuus “testata orgioita”.
-Tapahtumamme ovat intiimejä, emotionaalisesti syviä ja edellyttävät valmiutta vuorovaikuttaa rehellisesti, kuunnella itseä sekä kunnioittaa toisten rajoja.
+Emme myöskään ole kultti emmekä kumarra guruja: henkisyys ei merkitse meille uskonnollisuutta vaan tietoista läsnäoloa koko rikkaudessaan.
 
-Rakastajien kilta
+Rakastajien killassa
 
-- järjestää **Lempeitä orgioita** – pienoisretriittejä tietoisen seksuaalisuuden tutkimiseen rakkaudellisessa, turvallisessa ja päihteettömässä ympäristössä,
+- järjestämme **Lempeitä orgioita** – pienoisretriittejä tietoisen seksuaalisuuden tutkimiseen rakkaudellisessa, turvallisessa ja päihteettömässä ympäristössä,
 - järjestämme työpajoja vaihtuvilla teemoilla,
 - kehitämme **ohjeita, harjoituksia ja viestintämateriaaleja** tietoisen seksuaalisuuden tapahtumia varten,
 - tarjoamme **tukea ja konsultaatiota** heille, jotka haluavat järjestää vastaavanlaisia tapahtumia omissa yhteisöissään,
