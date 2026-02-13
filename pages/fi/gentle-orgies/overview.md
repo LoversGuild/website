@@ -3,36 +3,37 @@ title: Johdatus Lempeisiin orgioihin
 url: orgiat/johdanto/
 order: 100
 description: |
-  *Lempeät orgiat* ovat rakkaudellisia tietoisen seksuaalisen ilmaisun tapahtumia.
+  **Lempeät orgiat** ovat rakkaudellisia tietoisen seksuaalisuuden retriittejä.
   Ne tarjoavat mahdollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
 abstract: |
-  *Lempeät orgiat* ovat rakkaudellisia tietoisen seksuaalisen ilmaisun tapahtumia.
+  **Lempeät orgiat** ovat rakkaudellisia tietoisen seksuaalisuuden retriittejä.
   Ne tarjoavat mahdollisuuden avoimelle seksuaaliselle ilmaisulle turvallisessa tilassa yhdessä toisten kanssa.
 ...
 
 # Avoimet sylit, avoimet sydämet
 
 Meille seksi on rakkauden kehollista ilmaisemista.
-Se on ihmeellinen lahja elämältä meille ihmisille: lumoavan kaunis; joskus pelottavankin voimakas.
-Emme halua hävetä tai kätkeä tuota lahjaa, vaan iloita siitä täydestä sydämestämme.
+Se on ihmeellinen lahja elämältä: lumoavan kaunis, joskus pelottavankin voimakas.
+Emme halua hävetä tai kätkeä tätä lahjaa, vaan iloita siitä täydestä sydämestämme.
 
-Lempeissä orgioissa meillä on mahdollisuus läheisyyteen ja rakasteluun jaetussa tilassa yhdessä toisten osallistujien kanssa.
-Vapaan leikin ja ohjattujen harjoitusten avulla syvennymme omaan keholliseen ja henkiseen kokemukseemme seksistä.
-Voimme jakaa toistemme kanssa puhtaan viattoman halumme, kauniit alastomat kehomme, kesyttömän leikkisyytemme, iloiset ja kipeät tunteemme sekä omat tapamme rakastella.
+Lempeissä orgioissa jaamme läheisyyttä ja rakastelemme yhteisessä tilassa.
+Vapaan leikin ja ohjattujen harjoitusten avulla syvennymme omaan **keholliseen, emotionaaliseen ja henkiseen kokemukseemme seksistä**.
+Jaamme puhtaan viattoman halumme, kauniit alastomat kehomme, kesyttömän leikkisyytemme, iloiset ja kipeät tunteemme sekä omat tapamme rakastella.
 Tervetullutta on kaikki tietoinen ja lempeä seksuaalinen ilmaisu, joka tapahtuu siihen osallistuvien täydellisessä yksimielisyydessä ja yhteisymmärryksessä.
 Villeimmissäkin leikeissä voimme aina katsoa toisiamme silmiin, ja nähdä niistä himon lisäksi rakkauden ja välittämisen.
 
-Kaikki leikkiminen ja ohjelmaan osallistuminen Lempeissä orgioissa on täysin vapaaehtoista.
+Kaikki leikkiminen ja harjoituksiin osallistuminen Lempeissä orgioissa on täysin vapaaehtoista.
+Jokainen päättää itse, miten ja kenen kanssa haluaa olla yhteydessä.
 
 /Rakkaudella/ emme tarkoita rakastumista tai kiintymystä ihmisten välillä.
-Meille rakkaus on täydellisen hyväksynnän tila sekä tunne siitä, että olemme toinen toisillemme merkityksellisiä kohtaamisemme hetkellä.
+Meille rakkaus on ehdottoman hyväksynnän tila sekä tunne siitä, että olemme toinen toisillemme merkityksellisiä kohtaamisemme hetkellä.
 
-Kasassa rakastelemisen lisäksi orgioissamme ihaillaan toisten leikkejä sekä tehdään sitä, mitä illanvietoissa yleensäkin: syödään, jutellaan ja juodaan teetä.
-Orgiat ovat päihteettömiä.
+Rakastelemisen lisäksi todistamme orgioissa toistemme leikkejä, syömme, juomme teetä, juttelemme ja nukumme yhdessä.
+Orgiamme ovat päihteettömiä.
 
 # Itsetuntemuksen syventäminen
 
-*Lempeät orgiat* ovat yhtä aikaa sekä matka itseen että yhteyteen toisten kanssa.
+Lempeät orgiat ovat yhtä aikaa sekä matka itseen että yhteyteen toisten kanssa.
 Tutustuessamme toisiimme, tutustumme samalla syvästi itseemme: vuorovaikutustapoihimme, haluihimme ja epävarmuuksiimme.
 
 Kykymme nauttia seksistä riippuu paljolti siitä, miten auki ja vastaanottavia olemme.
@@ -41,7 +42,7 @@ Hyväksyvän tietoisen läsnäolon avulla voimme kehittää herkkyyttämme sekä
 
 Orgioiden alkupuolella teemme ohjattuja harjoituksia, jotka ovat kehollisia ja meditatiivisia kohtaamisia itsemme ja toistemme kanssa.
 Harjoituksissa tutkimme ja ilmaisemme omia rajojamme, tunteitamme, halujamme ja pelkojamme, haastamme itseämme kohtaamaan kipupisteitämme, iloitsemme yhteydestä toisten kanssa ja avaamme kehoamme rakastelua varten.
-Usein käyttämiämme harjoitusmenetelmiä ovat hengitys, ääni, liike, kosketus, puhuminen, hiljaisuus, tanssi ja nautinto.
+Usein käyttämiämme harjoitusmenetelmiä ovat hengitys, ääntely, liike, kosketus, puhuminen, hiljaisuus, keskittyminen ja tanssi.
 
 Toivomme, että jokainen oppii itsestään Lempeissä orgioissa jotakin uutta, minkä vie mukanaan rikastuttamaan omaa ja läheistensä elämää.
 
@@ -49,8 +50,7 @@ Toivomme, että jokainen oppii itsestään Lempeissä orgioissa jotakin uutta, m
 
 Pyrimme tekemään illoista hyvin intiimejä.
 Osaltaan intiimiys syntyy pienestä osallistujamäärästä.
-Noin 12-16:n hengen ryhmässä jokaisen on helppo muistaa toistensa nimet ja rajat, ja jokaiseen on mahdollista luoda henkilökohtainen yhteys.
-Orgiat pidetään aina järjestäjän omassa kodissa tai mahdollisimman kodinomaisessa ympäristössä.
+Noin 14–18:n hengen ryhmässä jokaisen on helppo muistaa toistensa nimet ja rajat, ja jokaiseen on mahdollista luoda henkilökohtainen yhteys.
 
 Rakastellessamme emme keskity itsekkäästi vain omien tarpeidemme tyydyttämiseen, vaan huomioimme kokonaisvaltaisesti jokaisen, jonka kohtaamme.
 Kuuntelemme rakastelukumppaniemme haluja ja toiveita, luemme heidän kehonkieltään, ja pyrimme löytämään yhteisen nautinnon heidän kanssaan.
@@ -61,7 +61,7 @@ Orgioihin saa tulla omana itsenään.
 Meitä varten ei tarvitse laittautua, ei meikata, lyhentää ihokarvoja tai pukeutua erityisesti.
 
 Kuukautiset eivät ole meille mikään ongelma.
-Arvostamme hedelmällisyyttä ja kuukautiskiertoa syvästi, ja pidämme sitä kunnianosoituksena, että orgioihimme uskalletaan tulla mukaan kierron herkän vaiheen aikana.
+Arvostamme hedelmällisyyttä ja kuukautiskiertoa syvästi, ja pidämme sitä kunnianosoituksena, että orgioihimme uskalletaan tulla kierron herkän vaiheen aikana.
 
 Orgioissa ei soiteta taustamusiikkia.
 Nautinnon, rakastelun ja hengityksen äänet soivat kauniimpina kuin mitkään soittimet.
@@ -74,11 +74,11 @@ Lempeissä orgioissa saa olla yhtä lailla sydän kuin haaratkin avoimina.
 Kaikki tunteet ja niiden ilmaiseminen kuuluvat rakasteluun.
 Kehollisen ja henkisen alastomuutensa paljastaminen voi tuntua joskus hyvin kipeältä.
 
-Lempeissä orgioissa jokainen voi luottaa siihen, että kaikki itsessä ja muissa heräävät tunteet ovat tervetulleita ja tulevat hyväksytyiksi.
+Lempeissä orgioissa jokainen voi luottaa siihen, että kaikki tunteet ovat tervetulleita ja tulevat hyväksytyiksi.
 Maailmassa, jossa elämme, on harvoin tilaisuuksia tulla yhtä syvästi nähdyksi, hyväksytyksi ja rakastetuksi.
 Tuo kokemus voi olla hyvin parantava.
 
-Suurin osa meistä on lapsesta saakka ehdollistettu häpeämään omaa seksuaalisuuttaan, kehoaan tai molempia.
+Suurin osa meistä on lapsesta saakka ehdollistettu häpeämään omaa kehoaan ja seksuaalisuuttaan.
 Tästä häpeästä vapautuminen on hyvin antoisaa, mutta se ei useimmille ole helppoa.
 
 Orgioissa kenelläkään ei ole vääränlaista vartaloa eikä vääränlaista tapaa äännellä mielihyvästä.
@@ -103,7 +103,7 @@ Molemmat viestivät meille jatkuvasti siitä, mitä haluaisimme, mitä emme tahd
 Seksuaalisuuttamme kahlitseva ja arvostamaton yhteiskuntamme ei rohkaise meitä sen enempää rajojemme kuuntelussa kuin ilmaisemisessakaan.
 Siksi nämä taidot on opeteltava – usein vasta aikuisina.
 
-Meille sanallisen ja kehollisen viestinnän huomioiminen on kaiken konsensuaalisuuden ja sitä kautta seksuaalisen vuorovaikutuksen lähtökohta.
+Meille kumppaniemme sanallisen ja kehollisen viestinnän huomioiminen on kaiken konsensuaalisuuden ja sitä kautta seksuaalisen vuorovaikutuksen lähtökohta.
 “Ei” tarkoittaa aina ehdottomasti ja välittömästi ei!
 Toisten rajoja ei venytetä, eikä ketään suostutella joustamaan rajoistaan.
 Rajojen ilmaisua ja tunnistamista myös harjoitellaan jokaisissa orgioissa.
@@ -124,6 +124,7 @@ Turvallisuuden luominen perustuu luottamukseen, toisten kunnioittamiseen sekä a
 
 Luottamus ja avoimuus syntyvät toisiin tutustumisesta.
 Orgioiden aluksi esittäydymme toinen toisillemme, kerromme itsestämme, toiveistamme, rajoistamme, ehkäisyperiaatteistamme sekä seksitautitilanteestamme.
+Jokaisen on käytävä seksitautitesteissä ennen orgioihin osallistumista.
 
 Turvallisen ilmapiirin luomiseksi aloitamme orgiat yhdessä.
 Kotiin jokainen voi lähteä milloin vain haluaa.
