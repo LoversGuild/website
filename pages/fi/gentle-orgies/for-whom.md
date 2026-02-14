@@ -12,13 +12,19 @@ description: |
 
 abstract: |
   Lempeiden orgiooiden vieraat ovat monenkirjavia – taustaltaan, iältään, seksuaaliselta kokeneisuudeltaan, libidoltaan, suhde- ja perhemalleiltaan, sukupuoli-identiteeteiltään, elämäntavoiltaan, yhteiskunnalliselta asemaltaan ja taloudelliselta tilanteeltaan – vain joitakin ominaisuuksia mainitaksemme.
+  Moni identifioituu kvääriksi (queer), panseksuaaliksi tai kyseenalaistaa luokittelut kokonaan.
   Tämä moninaisuus on mielestämme erittäin suuri rikkaus.
-  Lempeät orgiat ovat poikkeuksellinen mahdollisuus kohdata hyvinkin erilaisia ihmisiä hyväksyen, syvästi ja rakastaen.
 ...
 
 # Kenelle Lempeät orgiat sopivat?
 
-Jos rakastat syleilyjä ja seksuaalista kosketusta, jos haluat tutustua yhdessä toisten kanssa syvästi ja intensiivisesti omaasi ja toisten nautintoon, seksuaalisuuden voimaan sekä itseesi seksuaalisena olentona, jos haluat oppia olemaan tietoisemmin läsnä rakastellessasi, jos seksi on sinulle henkinen, emotionaalinen ja kehollinen yhteyden kokemus, saatat löytää Lempeistä orgioista maanpäällisen paratiisin.
+Lempeät orgiat saattavat sopia sinulle, jos
+
+- rakastat syleilyjä ja seksuaalista kosketusta,
+- seksi on sinulle emotionaalisesti merkityksellinen tapa luoda yhteys toisiin,
+- haluat syventää kykyäsi nauttia ja antaa nautintoa kumppaneillesi,
+- olet utelias tai kokenut **tietoisen seksuaalisuuden, neotantran, mindfulnessin tai vastaavien menetelmien suhteen** ja
+- olet valmis tuntemaan ja näyttämään haavoittuvuutesi ja herkkyytesi.
 
 Haluamme päästää uudet ihmiset lähellemme – niin kehollisesti kuin emotionaalisestikin.
 Emme halua seksiä toisten kanssa vain saadaksemme fyysistä nautintoa, vaan myös kokeaksemme syvää yhteenkuuluvuutta heidän kanssaan.
@@ -26,7 +32,7 @@ Emme halua seksiä toisten kanssa vain saadaksemme fyysistä nautintoa, vaan my�
 Haluamme oppia olemaan omia itsejämme toistemme edessä silloinkin, kun se tuntuu vaikealta.
 Haluamme näyttää kehomme, tunteemme, haavoittuvuutemme ja epävarmuutemme; ja haluamme tulla nähdyiksi, hyväksytyiksi ja rakastetuiksi.
 
-Lempeät orgiat ovat ehtymätön autuuden lähde niille, jotka haluaisivat rakastella kaiken päivää ja yötä – niille, jotka kaiken aikaa kuulevat rakkauden kutsun kehossaan, vaikka vain hiljaisena kuiskauksena jossakin taustalla.
+Lempeät orgiat voivat olla maanpäällinen paratiisi niille, jotka haluaisivat rakastella kaiken päivää ja yötä – niille, jotka kaiken aikaa kuulevat rakkauden kutsun kehossaan, vaikka vain hiljaisena kuiskauksena jossakin taustalla.
 
 Mutta yhtä lailla Lempeät orgiat sopivat hyvin myös heille, jotka muistavat seksuaalisuutensa kerran kuussa ja tahtovat niinä hetkinä jonkun lähelleen.
 Monille on hyvin vapauttavaa saada rakastella sitoumuksitta ja velvoitteitta – saada painaa rakastetut hetkeksi rintaansa vasten, levittää sitten siipensä ja lentää omille teilleen.
@@ -74,10 +80,14 @@ Me voimme tarjota lempeän oppimisympäristön mitä avoimeen ja tietoiseen seks
 Toisten kehonkielen lukeminen ja heidän rajojensa seuraaminen ovat asioita, joissa voi aina kehittyä.
 Yksi viikonloppu on kuitenkin liian lyhyt aika opiskelulle, jos nämä taidot eivät ole valmiiksi vahvat.
 
+Jos et pidä edes epäseksuaalista fyysistä läheisyyttä miellyttävänä kaikenlaisia sukupuolia olevien ihmisten kanssa tai koet homo- tai transfobiaa, Lempeät orgiat eivät ole sinua varten.
+
 # Onko orgioissa minua haluttavia ihmisiä?
 
 Teemme voitavamme, mutta emme voi taata sitä.
 Herkkyys on voimaa, ja se tekee ihmisistä kuumia.
+Järjestäjinä pyrimme lisäämään rakastelukumppanien löytymisen todennäköisyyttä huomioimalla osallistujien seksuaaliset suuntautumiset ja heidän ikätoiveensa kumppanien suhteen.
+
 Ihmisten mieltymykset seksikumppanien suhteen eivät aina osu yksiin.
 Orgiat voivat silti olla kaunis ja ikimuistoinen kokemus, jos voit halata ja silitellä heitäkin, joiden kanssa rakasteluhalut eivät kohtaa.
 
@@ -85,9 +95,6 @@ Sukupuoli ei ole meille olennainen ominaisuus ihmisissä.
 Pyrimme kuitenkin tasaamaan eri sukuelimiä kantavien ihmisten määrää orgioissamme.
 Kokemuksemme mukaan tämä tasapaino edistää orgioiden rentoutta ja moninaisuutta.
 Se myös lisää joidenkuiden turvallisuudentunnetta.
-
-Järjestäjinä pyrimme lisäämään rakastelukumppanien löytymisen todennäköisyyttä huomioimalla osallistujien seksuaaliset suuntautumiset ja niiden yhteensopivuuden.
-Jos et kuitenkaan pidä edes epäseksuaalista fyysistä läheisyyttä miellyttävänä kaikenlaisia sukupuolia olevien ihmisten kanssa tai koet vaikkapa homofobiaa, Lempeät orgiat eivät ole sinua varten.
 
 Jotkut tarvitsevat syvän keskusteluyhteyden uuden ihmisen kanssa, ennen kuin voivat kokea tämän seksuaalisesti kiinnostavaksi.
 Lempeissä orgioissa tällaisten ihmisten voi olla vaikeaa löytää leikkiseuraa ennen kuin ilta on jo pitkällä.
