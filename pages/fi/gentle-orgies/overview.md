@@ -25,7 +25,7 @@ Villeimmissäkin leikeissä voimme aina katsoa toisiamme silmiin, ja nähdä nii
 Kaikki leikkiminen ja harjoituksiin osallistuminen Lempeissä orgioissa on täysin vapaaehtoista.
 Jokainen päättää itse, miten ja kenen kanssa haluaa olla yhteydessä.
 
-/Rakkaudella/ emme tarkoita rakastumista tai kiintymystä ihmisten välillä.
+**Rakkaudella** emme tarkoita rakastumista tai kiintymystä ihmisten välillä.
 Meille rakkaus on ehdottoman hyväksynnän tila sekä tunne siitä, että olemme toinen toisillemme merkityksellisiä kohtaamisemme hetkellä.
 
 Rakastelemisen lisäksi todistamme orgioissa toistemme leikkejä, syömme, juomme teetä, juttelemme ja nukumme yhdessä.
